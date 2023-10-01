@@ -12,7 +12,7 @@ Project that goes to the IMDB Top 250 Movies webpage and scrapes it for the foll
 - *Similar Movies*
 - *Genres that the movies fits into*
 
-## Dependencies :
+## Dependencies 
 - Node.js
 - Puppeteer
 - Javascript File System Library
