@@ -1,0 +1,7021 @@
+[
+  {
+    "ID": "1",
+    "Name": "The Shawshank Redemption",
+    "Release_Date": "1994",
+    "Duration": "2h 22m",
+    "Rating_MPA": "R",
+    "Rating": "9.3 (2.8M)",
+    "Page_Link": "https://www.imdb.com/title/tt0111161/?ref_=chttp_i_1",
+    "Recommendations": [
+      "The Godfather",
+      "Forrest Gump",
+      "The Dark Knight",
+      "Fight Club",
+      "Inception",
+      "Pulp Fiction",
+      "The Green Mile",
+      "Se7en",
+      "Schindler's List",
+      "The Godfather Part II",
+      "Interstellar",
+      "The Matrix"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "2",
+    "Name": "The Godfather",
+    "Release_Date": "1972",
+    "Duration": "2h 55m",
+    "Rating_MPA": "R",
+    "Rating": "9.2 (2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0068646/?ref_=chttp_i_2",
+    "Recommendations": [
+      "The Godfather Part II",
+      "The Shawshank Redemption",
+      "The Dark Knight",
+      "Pulp Fiction",
+      "Forrest Gump",
+      "Goodfellas",
+      "The Godfather Part III",
+      "Schindler's List",
+      "Fight Club",
+      "Inception",
+      "The Lord of the Rings: The Return of the King",
+      "Se7en"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "3",
+    "Name": "The Dark Knight",
+    "Release_Date": "2008",
+    "Duration": "2h 32m",
+    "Rating_MPA": "PG-13",
+    "Rating": "9.0 (2.8M)",
+    "Page_Link": "https://www.imdb.com/title/tt0468569/?ref_=chttp_i_3",
+    "Recommendations": [
+      "The Dark Knight Rises",
+      "Inception",
+      "Batman Begins",
+      "Interstellar",
+      "The Shawshank Redemption",
+      "The Godfather",
+      "Forrest Gump",
+      "Joker",
+      "Fight Club",
+      "Pulp Fiction",
+      "The Lord of the Rings: The Return of the King",
+      "The Matrix"
+    ],
+    "Genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "4",
+    "Name": "The Godfather Part II",
+    "Release_Date": "1974",
+    "Duration": "3h 22m",
+    "Rating_MPA": "R",
+    "Rating": "9.0 (1.3M)",
+    "Page_Link": "https://www.imdb.com/title/tt0071562/?ref_=chttp_i_4",
+    "Recommendations": [
+      "The Godfather",
+      "The Godfather Part III",
+      "Goodfellas",
+      "The Shawshank Redemption",
+      "Pulp Fiction",
+      "Schindler's List",
+      "Forrest Gump",
+      "The Dark Knight",
+      "The Lord of the Rings: The Return of the King",
+      "The Good, the Bad and the Ugly",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Matrix"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "5",
+    "Name": "12 Angry Men",
+    "Release_Date": "1957",
+    "Duration": "1h 36m",
+    "Rating_MPA": "Approved",
+    "Rating": "9.0 (834K)",
+    "Page_Link": "https://www.imdb.com/title/tt0050083/?ref_=chttp_i_5",
+    "Recommendations": [
+      "Schindler's List",
+      "The Good, the Bad and the Ugly",
+      "The Shawshank Redemption",
+      "The Godfather Part II",
+      "The Godfather",
+      "Pulp Fiction",
+      "One Flew Over the Cuckoo's Nest",
+      "Forrest Gump",
+      "Goodfellas",
+      "The Lord of the Rings: The Return of the King",
+      "Se7en",
+      "Life Is Beautiful"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "6",
+    "Name": "Schindler's List",
+    "Release_Date": "1993",
+    "Duration": "3h 15m",
+    "Rating_MPA": "R",
+    "Rating": "9.0 (1.4M)",
+    "Page_Link": "https://www.imdb.com/title/tt0108052/?ref_=chttp_i_6",
+    "Recommendations": [
+      "The Shawshank Redemption",
+      "Forrest Gump",
+      "Pulp Fiction",
+      "The Godfather Part II",
+      "The Godfather",
+      "Saving Private Ryan",
+      "The Green Mile",
+      "12 Angry Men",
+      "The Lord of the Rings: The Return of the King",
+      "The Silence of the Lambs",
+      "The Pianist",
+      "The Good, the Bad and the Ugly"
+    ],
+    "Genres": [
+       "Biography",
+       "Drama",
+       "History"
+    ]
+  },
+  {
+    "ID": "7",
+    "Name": "The Lord of the Rings: The Return of the King",
+    "Release_Date": "2003",
+    "Duration": "3h 21m",
+    "Rating_MPA": "PG-13",
+    "Rating": "9.0 (1.9M)",
+    "Page_Link": "https://www.imdb.com/title/tt0167260/?ref_=chttp_i_7",
+    "Recommendations": [
+      "The Lord of the Rings: The Two Towers",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Matrix",
+      "Forrest Gump",
+      "The Dark Knight",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "The Shawshank Redemption",
+      "Pulp Fiction",
+      "Inception",
+      "The Godfather Part II",
+      "The Godfather",
+      "Schindler's List"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "8",
+    "Name": "Pulp Fiction",
+    "Release_Date": "1994",
+    "Duration": "2h 34m",
+    "Rating_MPA": "R",
+    "Rating": "8.9 (2.1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0110912/?ref_=chttp_i_8",
+    "Recommendations": [
+      "Forrest Gump",
+      "Fight Club",
+      "Django Unchained",
+      "Se7en",
+      "The Shawshank Redemption",
+      "Inglourious Basterds",
+      "Inception",
+      "The Godfather",
+      "The Matrix",
+      "The Dark Knight",
+      "Goodfellas",
+      "Schindler's List"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "9",
+    "Name": "The Lord of the Rings: The Fellowship of the Ring",
+    "Release_Date": "2001",
+    "Duration": "2h 58m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.8 (1.9M)",
+    "Page_Link": "https://www.imdb.com/title/tt0120737/?ref_=chttp_i_9",
+    "Recommendations": [
+      "The Lord of the Rings: The Two Towers",
+      "The Lord of the Rings: The Return of the King",
+      "The Matrix",
+      "Forrest Gump",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "The Dark Knight",
+      "Pulp Fiction",
+      "The Hobbit: An Unexpected Journey",
+      "Inception",
+      "Star Wars: Episode IV - A New Hope",
+      "The Lord of the Rings: The Rings of Power",
+      "The Shawshank Redemption"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "10",
+    "Name": "The Good, the Bad and the Ugly",
+    "Release_Date": "1966",
+    "Duration": "2h 58m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.8 (790K)",
+    "Page_Link": "https://www.imdb.com/title/tt0060196/?ref_=chttp_i_10",
+    "Recommendations": [
+      "For a Few Dollars More",
+      "The Godfather Part II",
+      "Schindler's List",
+      "12 Angry Men",
+      "One Flew Over the Cuckoo's Nest",
+      "Pulp Fiction",
+      "Goodfellas",
+      "The Godfather",
+      "Forrest Gump",
+      "The Lord of the Rings: The Return of the King",
+      "A Fistful of Dollars",
+      "The Matrix"
+    ],
+    "Genres": [
+      "Adventure",
+      "Western"
+    ]
+  },
+  {
+    "ID": "11",
+    "Name": "Forrest Gump",
+    "Release_Date": "1994",
+    "Duration": "2h 22m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.8 (2.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0109830/?ref_=chttp_i_11",
+    "Recommendations": [
+      "Fight Club",
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "Inception",
+      "The Matrix",
+      "The Green Mile",
+      "Se7en",
+      "Saving Private Ryan",
+      "The Dark Knight",
+      "Django Unchained",
+      "Joker",
+      "The Godfather"
+    ],
+    "Genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "12",
+    "Name": "Fight Club",
+    "Release_Date": "1999",
+    "Duration": "2h 19m",
+    "Rating_MPA": "R",
+    "Rating": "8.8 (2.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0137523/?ref_=chttp_i_12",
+    "Recommendations": [
+      "Forrest Gump",
+      "Se7en",
+      "Inception",
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "The Dark Knight",
+      "Joker",
+      "The Matrix",
+      "The Wolf of Wall Street",
+      "Django Unchained",
+      "Interstellar",
+      "Shutter Island"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "13",
+    "Name": "The Lord of the Rings: The Two Towers",
+    "Release_Date": "2002",
+    "Duration": "2h 59m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.8 (1.7M)",
+    "Page_Link": "https://www.imdb.com/title/tt0167261/?ref_=chttp_i_13",
+    "Recommendations": [
+      "The Lord of the Rings: The Return of the King",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Matrix",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Forrest Gump",
+      "The Hobbit: An Unexpected Journey",
+      "Star Wars: Episode IV - A New Hope",
+      "Inception",
+      "The Dark Knight",
+      "The Hobbit: The Desolation of Smaug",
+      "Pulp Fiction",
+      "The Hobbit: The Battle of the Five Armies"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "14",
+    "Name": "Inception",
+    "Release_Date": "2010",
+    "Duration": "2h 28m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.8 (2.5M)",
+    "Page_Link": "https://www.imdb.com/title/tt1375666/?ref_=chttp_i_14",
+    "Recommendations": [
+      "Interstellar",
+      "The Dark Knight",
+      "Fight Club",
+      "Forrest Gump",
+      "The Shawshank Redemption",
+      "The Matrix",
+      "Pulp Fiction",
+      "Se7en",
+      "The Dark Knight Rises",
+      "Joker",
+      "The Prestige",
+      "The Wolf of Wall Street"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Sci",
+      "Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "15",
+    "Name": "Star Wars: Episode V - The Empire Strikes Back",
+    "Release_Date": "1980",
+    "Duration": "2h 4m",
+    "Rating_MPA": "PG",
+    "Rating": "8.7 (1.3M)",
+    "Page_Link": "https://www.imdb.com/title/tt0080684/?ref_=chttp_i_15",
+    "Recommendations": [
+      "Star Wars: Episode IV - A New Hope",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "Star Wars: Episode III - Revenge of the Sith",
+      "Star Wars: Episode II - Attack of the Clones",
+      "Star Wars: Episode I - The Phantom Menace",
+      "Star Wars: Episode VII - The Force Awakens",
+      "The Lord of the Rings: The Two Towers",
+      "The Lord of the Rings: The Return of the King",
+      "The Matrix",
+      "Back to the Future",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "Star Wars: Episode VIII - The Last Jedi"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "16",
+    "Name": "The Matrix",
+    "Release_Date": "1999",
+    "Duration": "2h 16m",
+    "Rating_MPA": "R",
+    "Rating": "8.7 (2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0133093/?ref_=chttp_i_16",
+    "Recommendations": [
+      "Forrest Gump",
+      "Inception",
+      "The Lord of the Rings: The Return of the King",
+      "Pulp Fiction",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Two Towers",
+      "Fight Club",
+      "Se7en",
+      "The Dark Knight",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Back to the Future",
+      "The Matrix Reloaded"
+    ],
+    "Genres": [
+      "Action",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "17",
+    "Name": "Goodfellas",
+    "Release_Date": "1990",
+    "Duration": "2h 25m",
+    "Rating_MPA": "R",
+    "Rating": "8.7 (1.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0099685/?ref_=chttp_i_17",
+    "Recommendations": [
+      "The Godfather Part II",
+      "Pulp Fiction",
+      "The Godfather",
+      "Se7en",
+      "The Departed",
+      "One Flew Over the Cuckoo's Nest",
+      "The Silence of the Lambs",
+      "Forrest Gump",
+      "The Matrix",
+      "Saving Private Ryan",
+      "Fight Club",
+      "The Green Mile"
+    ],
+    "Genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "18",
+    "Name": "One Flew Over the Cuckoo's Nest",
+    "Release_Date": "1975",
+    "Duration": "2h 13m",
+    "Rating_MPA": "R",
+    "Rating": "8.7 (1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0073486/?ref_=chttp_i_18",
+    "Recommendations": [
+      "The Silence of the Lambs",
+      "Goodfellas",
+      "The Good, the Bad and the Ugly",
+      "Schindler's List",
+      "12 Angry Men",
+      "Se7en",
+      "Pulp Fiction",
+      "American History X",
+      "Life Is Beautiful",
+      "The Green Mile",
+      "Saving Private Ryan",
+      "Forrest Gump"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "19",
+    "Name": "Spider-Man: Across the Spider-Verse",
+    "Release_Date": "2023",
+    "Duration": "2h 20m",
+    "Rating_MPA": "PG",
+    "Rating": "8.7 (267K)",
+    "Page_Link": "https://www.imdb.com/title/tt9362722/?ref_=chttp_i_19",
+    "Recommendations": [
+      "Guardians of the Galaxy Vol. 3",
+      "Spider-Man: No Way Home",
+      "The Dark Knight",
+      "Interstellar",
+      "The Flash",
+      "Inception",
+      "Fight Club",
+      "Avengers: Endgame",
+      "Avengers: Infinity War",
+      "Oppenheimer",
+      "The Shawshank Redemption",
+      "Joker"
+    ],
+    "Genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "20",
+    "Name": "Se7en",
+    "Release_Date": "1995",
+    "Duration": "2h 7m",
+    "Rating_MPA": "R",
+    "Rating": "8.6 (1.7M)",
+    "Page_Link": "https://www.imdb.com/title/tt0114369/?ref_=chttp_i_20",
+    "Recommendations": [
+      "Fight Club",
+      "The Silence of the Lambs",
+      "Pulp Fiction",
+      "Forrest Gump",
+      "Inception",
+      "Django Unchained",
+      "The Shawshank Redemption",
+      "Shutter Island",
+      "The Matrix",
+      "The Green Mile",
+      "Goodfellas",
+      "Saving Private Ryan"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "21",
+    "Name": "It's a Wonderful Life",
+    "Release_Date": "1946",
+    "Duration": "2h 10m",
+    "Rating_MPA": "PG",
+    "Rating": "8.6 (479K)",
+    "Page_Link": "https://www.imdb.com/title/tt0038650/?ref_=chttp_i_21",
+    "Recommendations": [
+      "The Lion King",
+      "Spirited Away",
+      "Watchlist",
+      "Toy Story",
+      "WALL·E",
+      "Toy Story 3",
+      "The Wizard of Oz",
+      "The Sound of Music",
+      "Up",
+      "Coco",
+      "Finding Nemo",
+      "Aladdin"
+    ],
+    "Genres": [
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "22",
+    "Name": "Seven Samurai",
+    "Release_Date": "1954",
+    "Duration": "3h 27m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.6 (358K)",
+    "Page_Link": "https://www.imdb.com/title/tt0047478/?ref_=chttp_i_22",
+    "Recommendations": [
+      "Harakiri",
+      "The Good, the Bad and the Ugly",
+      "One Flew Over the Cuckoo's Nest",
+      "Rashomon",
+      "12 Angry Men",
+      "City of God",
+      "Modern Times",
+      "Psycho",
+      "Life Is Beautiful",
+      "Ran",
+      "Yojimbo",
+      "Casablanca"
+    ],
+    "Genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "23",
+    "Name": "The Silence of the Lambs",
+    "Release_Date": "1991",
+    "Duration": "1h 58m",
+    "Rating_MPA": "R",
+    "Rating": "8.6 (1.5M)",
+    "Page_Link": "https://www.imdb.com/title/tt0102926/?ref_=chttp_i_23",
+    "Recommendations": [
+      "Se7en",
+      "The Green Mile",
+      "Pulp Fiction",
+      "Forrest Gump",
+      "Saving Private Ryan",
+      "One Flew Over the Cuckoo's Nest",
+      "The Matrix",
+      "Goodfellas",
+      "Fight Club",
+      "Léon: The Professional",
+      "Schindler's List",
+      "Gladiator"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "24",
+    "Name": "Interstellar",
+    "Release_Date": "2014",
+    "Duration": "2h 49m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.7 (2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0816692/?ref_=chttp_i_24",
+    "Recommendations": [
+      "Inception",
+      "The Dark Knight",
+      "Forrest Gump",
+      "Fight Club",
+      "Joker",
+      "The Shawshank Redemption",
+      "The Wolf of Wall Street",
+      "The Dark Knight Rises",
+      "Django Unchained",
+      "Se7en",
+      "The Prestige",
+      "The Matrix"
+    ],
+    "Genres": [
+      "Adventure",
+      "Drama",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "25",
+    "Name": "Saving Private Ryan",
+    "Release_Date": "1998",
+    "Duration": "2h 49m",
+    "Rating_MPA": "R",
+    "Rating": "8.6 (1.5M)",
+    "Page_Link": "https://www.imdb.com/title/tt0120815/?ref_=chttp_i_25",
+    "Recommendations": [
+      "The Green Mile",
+      "Forrest Gump",
+      "Schindler's List",
+      "Gladiator",
+      "The Silence of the Lambs",
+      "Se7en",
+      "The Matrix",
+      "Pulp Fiction",
+      "Goodfellas",
+      "The Pianist",
+      "The Shawshank Redemption",
+      "The Departed"
+    ],
+    "Genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "26",
+    "Name": "City of God",
+    "Release_Date": "2002",
+    "Duration": "2h 10m",
+    "Rating_MPA": "R",
+    "Rating": "8.6 (782K)",
+    "Page_Link": "https://www.imdb.com/title/tt0317248/?ref_=chttp_i_26",
+    "Recommendations": [
+      "Life Is Beautiful",
+      "American History X",
+      "One Flew Over the Cuckoo's Nest",
+      "Léon: The Professional",
+      "The Silence of the Lambs",
+      "Saving Private Ryan",
+      "Se7en",
+      "The Green Mile",
+      "Schindler's List",
+      "The Pianist",
+      "Goodfellas",
+      "The Matrix"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "27",
+    "Name": "Life Is Beautiful",
+    "Release_Date": "1997",
+    "Duration": "1h 56m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.6 (723K)",
+    "Page_Link": "https://www.imdb.com/title/tt0118799/?ref_=chttp_i_27",
+    "Recommendations": [
+      "The Pianist",
+      "City of God",
+      "The Green Mile",
+      "Schindler's List",
+      "The Intouchables",
+      "Saving Private Ryan",
+      "The Silence of the Lambs",
+      "Forrest Gump",
+      "One Flew Over the Cuckoo's Nest",
+      "Léon: The Professional",
+      "Back to the Future",
+      "The Matrix"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama",
+      "Romance",
+      "War"
+    ]
+  },
+  {
+    "ID": "28",
+    "Name": "The Green Mile",
+    "Release_Date": "1999",
+    "Duration": "3h 9m",
+    "Rating_MPA": "R",
+    "Rating": "8.6 (1.4M)",
+    "Page_Link": "https://www.imdb.com/title/tt0120689/?ref_=chttp_i_28",
+    "Recommendations": [
+      "Saving Private Ryan",
+      "Forrest Gump",
+      "The Shawshank Redemption",
+      "The Silence of the Lambs",
+      "Se7en",
+      "The Pianist",
+      "Gladiator",
+      "Schindler's List",
+      "Fight Club",
+      "The Matrix",
+      "Pulp Fiction",
+      "Django Unchained"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Fantasy",
+      "Mystery"
+    ]
+  },
+  {
+    "ID": "29",
+    "Name": "Star Wars: Episode IV - A New Hope",
+    "Release_Date": "1977",
+    "Duration": "2h 1m",
+    "Rating_MPA": "PG",
+    "Rating": "8.6 (1.4M)",
+    "Page_Link": "https://www.imdb.com/title/tt0076759/?ref_=chttp_i_29",
+    "Recommendations": [
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "Star Wars: Episode III - Revenge of the Sith",
+      "Star Wars: Episode I - The Phantom Menace",
+      "Star Wars: Episode II - Attack of the Clones",
+      "Star Wars: Episode VII - The Force Awakens",
+      "Back to the Future",
+      "Star Wars: Episode VIII - The Last Jedi",
+      "The Lord of the Rings: The Two Towers",
+      "The Matrix",
+      "Rogue One: A Star Wars Story",
+      "The Lord of the Rings: The Return of the King"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "30",
+    "Name": "Terminator 2: Judgment Day",
+    "Release_Date": "1991",
+    "Duration": "2h 17m",
+    "Rating_MPA": "R",
+    "Rating": "8.6 (1.1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0103064/?ref_=chttp_i_30",
+    "Recommendations": [
+      "The Terminator",
+      "Back to the Future",
+      "The Matrix",
+      "Saving Private Ryan",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Terminator 3: Rise of the Machines",
+      "Star Wars: Episode IV - A New Hope",
+      "Gladiator",
+      "The Silence of the Lambs",
+      "The Lord of the Rings: The Two Towers",
+      "The Green Mile",
+      "The Lord of the Rings: The Fellowship of the Ring"
+    ],
+    "Genres": [
+      "Action",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "31",
+    "Name": "Back to the Future",
+    "Release_Date": "1985",
+    "Duration": "1h 56m",
+    "Rating_MPA": "PG",
+    "Rating": "8.5 (1.3M)",
+    "Page_Link": "https://www.imdb.com/title/tt0088763/?ref_=chttp_i_31",
+    "Recommendations": [
+      "Back to the Future Part II",
+      "The Matrix",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Back to the Future Part III",
+      "Star Wars: Episode IV - A New Hope",
+      "Forrest Gump",
+      "Terminator 2: Judgment Day",
+      "Saving Private Ryan",
+      "The Green Mile",
+      "The Silence of the Lambs",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Two Towers"
+    ],
+    "Genres": [
+      "Adventure",
+      "Comedy",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "32",
+    "Name": "Spirited Away",
+    "Release_Date": "2001",
+    "Duration": "2h 5m",
+    "Rating_MPA": "PG",
+    "Rating": "8.6 (811K)",
+    "Page_Link": "https://www.imdb.com/title/tt0245429/?ref_=chttp_i_32",
+    "Recommendations": [
+      "Howl's Moving Castle",
+      "My Neighbor Totoro",
+      "The Lion King",
+      "WALL·E",
+      "Ponyo",
+      "Kiki's Delivery Service",
+      "Castle in the Sky",
+      "Up",
+      "Coco",
+      "Toy Story",
+      "Ratatouille",
+      "Monsters, Inc."
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Mystery"
+    ]
+  },
+  {
+    "ID": "33",
+    "Name": "The Pianist",
+    "Release_Date": "2002",
+    "Duration": "2h 30m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (879K)",
+    "Page_Link": "https://www.imdb.com/title/tt0253474/?ref_=chttp_i_33",
+    "Recommendations": [
+      "The Green Mile",
+      "Life Is Beautiful",
+      "Schindler's List",
+      "Saving Private Ryan",
+      "The Intouchables",
+      "Léon: The Professional",
+      "Se7en",
+      "Whiplash",
+      "Forrest Gump",
+      "The Silence of the Lambs",
+      "American History X",
+      "Parasite"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "Music",
+      "War"
+    ]
+  },
+  {
+    "ID": "34",
+    "Name": "Psycho",
+    "Release_Date": "1960",
+    "Duration": "1h 49m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (699K)",
+    "Page_Link": "https://www.imdb.com/title/tt0054215/?ref_=chttp_i_34",
+    "Recommendations": [
+      "Rear Window",
+      "The Silence of the Lambs",
+      "One Flew Over the Cuckoo's Nest",
+      "Back to the Future",
+      "The Shining",
+      "Vertigo",
+      "Terminator 2: Judgment Day",
+      "The Good, the Bad and the Ugly",
+      "Psycho II",
+      "Life Is Beautiful",
+      "The Green Mile",
+      "Léon: The Professional"
+    ],
+    "Genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "35",
+    "Name": "Parasite",
+    "Release_Date": "2019",
+    "Duration": "2h 12m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (890K)",
+    "Page_Link": "https://www.imdb.com/title/tt6751668/?ref_=chttp_i_35",
+    "Recommendations": [
+      "Joker",
+      "Forrest Gump",
+      "Whiplash",
+      "Django Unchained",
+      "Inception",
+      "Fight Club",
+      "Se7en",
+      "Pulp Fiction",
+      "The Silence of the Lambs",
+      "Interstellar",
+      "The Matrix",
+      "Shutter Island"
+    ],
+    "Genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "36",
+    "Name": "Gladiator",
+    "Release_Date": "2000",
+    "Duration": "2h 35m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (1.6M)",
+    "Page_Link": "https://www.imdb.com/title/tt0172495/?ref_=chttp_i_36",
+    "Recommendations": [
+      "Saving Private Ryan",
+      "The Green Mile",
+      "Forrest Gump",
+      "The Matrix",
+      "Django Unchained",
+      "The Silence of the Lambs",
+      "The Departed",
+      "The Lord of the Rings: The Return of the King",
+      "Se7en",
+      "The Lord of the Rings: The Fellowship of the Ring",
+      "The Lord of the Rings: The Two Towers",
+      "Pulp Fiction"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "37",
+    "Name": "The Lion King",
+    "Release_Date": "1994",
+    "Duration": "1h 28m",
+    "Rating_MPA": "G",
+    "Rating": "8.5 (1.1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0110357/?ref_=chttp_i_37",
+    "Recommendations": [
+      "Toy Story",
+      "WALL·E",
+      "Toy Story 3",
+      "Finding Nemo",
+      "Up",
+      "Monsters, Inc.",
+      "Aladdin",
+      "Ratatouille",
+      "The Incredibles",
+      "Coco",
+      "The Lion King",
+      "Spirited Away"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Drama",
+      "Family",
+      "Musical"
+    ]
+  },
+  {
+    "ID": "38",
+    "Name": "Léon: The Professional",
+    "Release_Date": "1994",
+    "Duration": "1h 50m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (1.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0110413/?ref_=chttp_i_38",
+    "Recommendations": [
+      "American History X",
+      "The Silence of the Lambs",
+      "The Green Mile",
+      "Se7en",
+      "The Pianist",
+      "The Departed",
+      "The Usual Suspects",
+      "The Matrix",
+      "The Intouchables",
+      "Forrest Gump",
+      "Pulp Fiction",
+      "Gladiator"
+    ],
+    "Genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "39",
+    "Name": "American History X",
+    "Release_Date": "1998",
+    "Duration": "1h 59m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (1.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0120586/?ref_=chttp_i_39",
+    "Recommendations": [
+      "Léon: The Professional",
+      "The Departed",
+      "The Silence of the Lambs",
+      "Se7en",
+      "The Usual Suspects",
+      "The Green Mile",
+      "Saving Private Ryan",
+      "Gladiator",
+      "Goodfellas",
+      "One Flew Over the Cuckoo's Nest",
+      "The Pianist",
+      "Fight Club"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "40",
+    "Name": "The Departed",
+    "Release_Date": "2006",
+    "Duration": "2h 31m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (1.4M)",
+    "Page_Link": "https://www.imdb.com/title/tt0407887/?ref_=chttp_i_40",
+    "Recommendations": [
+      "Goodfellas",
+      "Se7en",
+      "Django Unchained",
+      "American History X",
+      "The Prestige",
+      "Shutter Island",
+      "The Usual Suspects",
+      "Saving Private Ryan",
+      "The Silence of the Lambs",
+      "Gladiator",
+      "Whiplash",
+      "Inception"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "41",
+    "Name": "Whiplash",
+    "Release_Date": "2014",
+    "Duration": "1h 46m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (934K)",
+    "Page_Link": "https://www.imdb.com/title/tt2582802/?ref_=chttp_i_41",
+    "Recommendations": [
+      "Parasite",
+      "The Departed",
+      "Forrest Gump",
+      "Fight Club",
+      "Django Unchained",
+      "Se7en",
+      "The Prestige",
+      "The Intouchables",
+      "The Pianist",
+      "Inception",
+      "Joker",
+      "Léon: The Professional"
+    ],
+    "Genres": [
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "ID": "42",
+    "Name": "The Prestige",
+    "Release_Date": "2006",
+    "Duration": "2h 10m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.5 (1.4M)",
+    "Page_Link": "https://www.imdb.com/title/tt0482571/?ref_=chttp_i_42",
+    "Recommendations": [
+      "Inception",
+      "Memento",
+      "Se7en",
+      "The Departed",
+      "Interstellar",
+      "The Dark Knight",
+      "The Dark Knight Rises",
+      "Shutter Island",
+      "Fight Club",
+      "Forrest Gump",
+      "The Green Mile",
+      "Django Unchained"
+    ],
+    "Genres": [
+      "Drama",
+      "Mystery",
+      "Sci",
+      "Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "43",
+    "Name": "Oppenheimer",
+    "Release_Date": "2023",
+    "Duration": "3h",
+    "Rating_MPA": "R",
+    "Rating": "8.6 (447K)",
+    "Page_Link": "https://www.imdb.com/title/tt15398776/?ref_=chttp_i_43",
+    "Recommendations": [
+      "Barbie",
+      "Interstellar",
+      "Inception",
+      "The Dark Knight",
+      "Spider-Man: Across the Spider-Verse",
+      "The Wolf of Wall Street",
+      "Joker",
+      "Fight Club",
+      "Mission: Impossible - Dead Reckoning Part One",
+      "Forrest Gump",
+      "Guardians of the Galaxy Vol. 3",
+      "Parasite"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "ID": "44",
+    "Name": "The Usual Suspects",
+    "Release_Date": "1995",
+    "Duration": "1h 46m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (1.1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0114814/?ref_=chttp_i_44",
+    "Recommendations": [
+      "The Departed",
+      "American History X",
+      "Léon: The Professional",
+      "Se7en",
+      "The Silence of the Lambs",
+      "Goodfellas",
+      "The Prestige",
+      "Memento",
+      "Saving Private Ryan",
+      "One Flew Over the Cuckoo's Nest",
+      "The Green Mile",
+      "Whiplash"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "45",
+    "Name": "Grave of the Fireflies",
+    "Release_Date": "1988",
+    "Duration": "1h 29m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.5 (296K)",
+    "Page_Link": "https://www.imdb.com/title/tt0095327/?ref_=chttp_i_45",
+    "Recommendations": [
+      "Princess Mononoke",
+      "Your Name.",
+      "Harakiri",
+      "Grave of the Fireflies",
+      "Modern Times",
+      "Life Is Beautiful",
+      "Léon: The Professional",
+      "City of God",
+      "The Intouchables",
+      "Cinema Paradiso",
+      "Parasite",
+      "Seven Samurai"
+    ],
+    "Genres": [
+      "Animation",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "46",
+    "Name": "Harakiri",
+    "Release_Date": "1962",
+    "Duration": "2h 13m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.6 (64K)",
+    "Page_Link": "https://www.imdb.com/title/tt0056058/?ref_=chttp_i_46",
+    "Recommendations": [
+      "Seven Samurai",
+      "High and Low",
+      "Yojimbo",
+      "Ikiru",
+      "Modern Times",
+      "Cinema Paradiso",
+      "Ran",
+      "Rashomon",
+      "Grave of the Fireflies",
+      "Paths of Glory",
+      "City Lights",
+      "Once Upon a Time in the West"
+    ],
+    "Genres": [
+      "Action",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "ID": "47",
+    "Name": "Casablanca",
+    "Release_Date": "1942",
+    "Duration": "1h 42m",
+    "Rating_MPA": "PG",
+    "Rating": "8.5 (592K)",
+    "Page_Link": "https://www.imdb.com/title/tt0034583/?ref_=chttp_i_47",
+    "Recommendations": [
+      "Psycho",
+      "Rear Window",
+      "Citizen Kane",
+      "One Flew Over the Cuckoo's Nest",
+      "Modern Times",
+      "The Good, the Bad and the Ugly",
+      "Gone with the Wind",
+      "Life Is Beautiful",
+      "Casablanca",
+      "12 Angry Men",
+      "Cinema Paradiso",
+      "Back to the Future"
+    ],
+    "Genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ]
+  },
+  {
+    "ID": "48",
+    "Name": "The Intouchables",
+    "Release_Date": "2011",
+    "Duration": "1h 52m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (899K)",
+    "Page_Link": "https://www.imdb.com/title/tt1675434/?ref_=chttp_i_48",
+    "Recommendations": [
+      "The Green Mile",
+      "Life Is Beautiful",
+      "Forrest Gump",
+      "The Pianist",
+      "Whiplash",
+      "Léon: The Professional",
+      "Django Unchained",
+      "Parasite",
+      "Saving Private Ryan",
+      "Se7en",
+      "American History X",
+      "Green Book"
+    ],
+    "Genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "49",
+    "Name": "Modern Times",
+    "Release_Date": "1936",
+    "Duration": "1h 27m",
+    "Rating_MPA": "G",
+    "Rating": "8.5 (253K)",
+    "Page_Link": "https://www.imdb.com/title/tt0027977/?ref_=chttp_i_49",
+    "Recommendations": [
+      "City Lights",
+      "The Great Dictator",
+      "The Gold Rush",
+      "Casablanca",
+      "Cinema Paradiso",
+      "Seven Samurai",
+      "Rear Window",
+      "Psycho",
+      "Life Is Beautiful",
+      "Harakiri",
+      "Limelight",
+      "The Good, the Bad and the Ugly"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "50",
+    "Name": "Cinema Paradiso",
+    "Release_Date": "1988",
+    "Duration": "2h 35m",
+    "Rating_MPA": "PG",
+    "Rating": "8.5 (274K)",
+    "Page_Link": "https://www.imdb.com/title/tt0095765/?ref_=chttp_i_50",
+    "Recommendations": [
+      "Life Is Beautiful",
+      "Modern Times",
+      "Rear Window",
+      "The Lives of Others",
+      "Casablanca",
+      "The Intouchables",
+      "City Lights",
+      "City of God",
+      "Harakiri",
+      "Seven Samurai",
+      "Psycho",
+      "One Flew Over the Cuckoo's Nest"
+    ],
+    "Genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "51",
+    "Name": "Once Upon a Time in the West",
+    "Release_Date": "1968",
+    "Duration": "2h 45m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.5 (342K)",
+    "Page_Link": "https://www.imdb.com/title/tt0064116/?ref_=chttp_i_51",
+    "Recommendations": [
+      "For a Few Dollars More",
+      "The Good, the Bad and the Ugly",
+      "Once Upon a Time in America",
+      "A Fistful of Dollars",
+      "Rear Window",
+      "Duck, You Sucker!",
+      "Seven Samurai",
+      "Casablanca",
+      "Modern Times",
+      "Apocalypse Now",
+      "Unforgiven",
+      "Harakiri"
+    ],
+    "Genres": [
+      "Western"
+    ]
+  },
+  {
+    "ID": "52",
+    "Name": "Rear Window",
+    "Release_Date": "1954",
+    "Duration": "1h 52m",
+    "Rating_MPA": "PG",
+    "Rating": "8.5 (509K)",
+    "Page_Link": "https://www.imdb.com/title/tt0047396/?ref_=chttp_i_52",
+    "Recommendations": [
+      "Vertigo",
+      "Psycho",
+      "North by Northwest",
+      "Dial M for Murder",
+      "Casablanca",
+      "Sunset Blvd.",
+      "Rear Window",
+      "Modern Times",
+      "City Lights",
+      "Citizen Kane",
+      "Rope",
+      "Cinema Paradiso"
+    ],
+    "Genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "53",
+    "Name": "Alien",
+    "Release_Date": "1979",
+    "Duration": "1h 57m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (920K)",
+    "Page_Link": "https://www.imdb.com/title/tt0078748/?ref_=chttp_i_53",
+    "Recommendations": [
+      "Aliens",
+      "Alien³",
+      "Terminator 2: Judgment Day",
+      "Alien: Resurrection",
+      "The Shining",
+      "Back to the Future",
+      "The Thing",
+      "The Terminator",
+      "Raiders of the Lost Ark",
+      "The Matrix",
+      "Star Wars: Episode IV - A New Hope",
+      "Alien: Covenant"
+    ],
+    "Genres": [
+      "Horror",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "54",
+    "Name": "City Lights",
+    "Release_Date": "1931",
+    "Duration": "1h 27m",
+    "Rating_MPA": "G",
+    "Rating": "8.5 (192K)",
+    "Page_Link": "https://www.imdb.com/title/tt0021749/?ref_=chttp_i_54",
+    "Recommendations": [
+      "Modern Times",
+      "The Great Dictator",
+      "The Gold Rush",
+      "Rear Window",
+      "Sunset Blvd.",
+      "Cinema Paradiso",
+      "Witness for the Prosecution",
+      "Seven Samurai",
+      "Casablanca",
+      "Paths of Glory",
+      "Limelight",
+      "Harakiri"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "55",
+    "Name": "Apocalypse Now",
+    "Release_Date": "1979",
+    "Duration": "2h 27m",
+    "Rating_MPA": "R",
+    "Rating": "8.4 (693K)",
+    "Page_Link": "https://www.imdb.com/title/tt0078788/?ref_=chttp_i_55",
+    "Recommendations": [
+      "Full Metal Jacket",
+      "Platoon",
+      "One Flew Over the Cuckoo's Nest",
+      "A Clockwork Orange",
+      "Alien",
+      "2001: A Space Odyssey",
+      "The Godfather Part II",
+      "The Shining",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "Goodfellas",
+      "The Good, the Bad and the Ugly",
+      "Saving Private Ryan"
+    ],
+    "Genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ]
+  },
+  {
+    "ID": "56",
+    "Name": "Memento",
+    "Release_Date": "2000",
+    "Duration": "1h 53m",
+    "Rating_MPA": "R",
+    "Rating": "8.4 (1.3M)",
+    "Page_Link": "https://www.imdb.com/title/tt0209144/?ref_=chttp_i_56",
+    "Recommendations": [
+      "The Prestige",
+      "Inception",
+      "Se7en",
+      "The Departed",
+      "The Dark Knight Rises",
+      "Shutter Island",
+      "Django Unchained",
+      "The Usual Suspects",
+      "Fight Club",
+      "Léon: The Professional",
+      "Whiplash",
+      "Inglourious Basterds"
+    ],
+    "Genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "57",
+    "Name": "Django Unchained",
+    "Release_Date": "2012",
+    "Duration": "2h 45m",
+    "Rating_MPA": "R",
+    "Rating": "8.5 (1.6M)",
+    "Page_Link": "https://www.imdb.com/title/tt1853728/?ref_=chttp_i_57",
+    "Recommendations": [
+      "Inglourious Basterds",
+      "Pulp Fiction",
+      "The Wolf of Wall Street",
+      "Shutter Island",
+      "Se7en",
+      "Forrest Gump",
+      "Joker",
+      "Fight Club",
+      "Inception",
+      "The Dark Knight Rises",
+      "The Departed",
+      "Parasite"
+    ],
+    "Genres": [
+      "Drama",
+      "Western"
+    ]
+  },
+  {
+    "ID": "58",
+    "Name": "Raiders of the Lost Ark",
+    "Release_Date": "1981",
+    "Duration": "1h 55m",
+    "Rating_MPA": "PG",
+    "Rating": "8.4 (1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0082971/?ref_=chttp_i_58",
+    "Recommendations": [
+      "Indiana Jones and the Last Crusade",
+      "Indiana Jones and the Temple of Doom",
+      "Indiana Jones and the Kingdom of the Crystal Skull",
+      "Star Wars: Episode IV - A New Hope",
+      "Back to the Future",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Jurassic Park",
+      "Alien",
+      "Terminator 2: Judgment Day",
+      "Indiana Jones and the Dial of Destiny",
+      "Die Hard"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "ID": "59",
+    "Name": "WALL·E",
+    "Release_Date": "2008",
+    "Duration": "1h 38m",
+    "Rating_MPA": "G",
+    "Rating": "8.4 (1.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0910970/?ref_=chttp_i_59",
+    "Recommendations": [
+      "Up",
+      "Toy Story",
+      "Finding Nemo",
+      "Ratatouille",
+      "Monsters, Inc.",
+      "Toy Story 3",
+      "Coco",
+      "The Lion King",
+      "The Incredibles",
+      "Inside Out",
+      "How to Train Your Dragon",
+      "Spider-Man: Into the Spider-Verse"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "60",
+    "Name": "The Lives of Others",
+    "Release_Date": "2006",
+    "Duration": "2h 17m",
+    "Rating_MPA": "R",
+    "Rating": "8.4 (402K)",
+    "Page_Link": "https://www.imdb.com/title/tt0405094/?ref_=chttp_i_60",
+    "Recommendations": [
+      "The Hunt",
+      "City of God",
+      "Life Is Beautiful",
+      "Cinema Paradiso",
+      "The Intouchables",
+      "Capernaum",
+      "Downfall",
+      "Amélie",
+      "Rear Window",
+      "The Usual Suspects",
+      "American Beauty",
+      "Léon: The Professional"
+    ],
+    "Genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "61",
+    "Name": "Sunset Blvd.",
+    "Release_Date": "1950",
+    "Duration": "1h 50m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.4 (231K)",
+    "Page_Link": "https://www.imdb.com/title/tt0043014/?ref_=chttp_i_61",
+    "Recommendations": [
+      "Double Indemnity",
+      "Witness for the Prosecution",
+      "The Apartment",
+      "Rear Window",
+      "Paths of Glory",
+      "Some Like It Hot",
+      "Vertigo",
+      "City Lights",
+      "North by Northwest",
+      "Citizen Kane",
+      "Casablanca",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
+    ],
+    "Genres": [
+      "Drama",
+      "Film",
+      "Noir"
+    ]
+  },
+  {
+    "ID": "62",
+    "Name": "Paths of Glory",
+    "Release_Date": "1957",
+    "Duration": "1h 28m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.4 (206K)",
+    "Page_Link": "https://www.imdb.com/title/tt0050825/?ref_=chttp_i_62",
+    "Recommendations": [
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "The Killing",
+      "Barry Lyndon",
+      "Sunset Blvd.",
+      "Spartacus",
+      "Full Metal Jacket",
+      "Witness for the Prosecution",
+      "Rear Window",
+      "Lolita",
+      "2001: A Space Odyssey",
+      "A Clockwork Orange",
+      "The Great Dictator"
+    ],
+    "Genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "63",
+    "Name": "Avengers: Infinity War",
+    "Release_Date": "2018",
+    "Duration": "2h 29m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.4 (1.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt4154756/?ref_=chttp_i_63",
+    "Recommendations": [
+      "Avengers: Endgame",
+      "The Avengers",
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War",
+      "Thor: Ragnarok",
+      "Spider-Man: No Way Home",
+      "Doctor Strange",
+      "Captain America: The Winter Soldier",
+      "The Dark Knight Rises",
+      "Black Panther",
+      "Guardians of the Galaxy",
+      "Iron Man"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "64",
+    "Name": "The Shining",
+    "Release_Date": "1980",
+    "Duration": "2h 26m",
+    "Rating_MPA": "R",
+    "Rating": "8.4 (1.1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0081505/?ref_=chttp_i_64",
+    "Recommendations": [
+      "A Clockwork Orange",
+      "The Silence of the Lambs",
+      "Full Metal Jacket",
+      "Alien",
+      "2001: A Space Odyssey",
+      "Django Unchained",
+      "One Flew Over the Cuckoo's Nest",
+      "Inglourious Basterds",
+      "Se7en",
+      "Pulp Fiction",
+      "Taxi Driver",
+      "Psycho"
+    ],
+    "Genres": [
+      "Drama",
+      "Horror"
+    ]
+  },
+  {
+    "ID": "65",
+    "Name": "The Great Dictator",
+    "Release_Date": "1940",
+    "Duration": "2h 5m",
+    "Rating_MPA": "G",
+    "Rating": "8.4 (232K)",
+    "Page_Link": "https://www.imdb.com/title/tt0032553/?ref_=chttp_i_65",
+    "Recommendations": [
+      "Modern Times",
+      "City Lights",
+      "The Gold Rush",
+      "Sunset Blvd.",
+      "Witness for the Prosecution",
+      "Paths of Glory",
+      "Rear Window",
+      "Casablanca",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "Limelight",
+      "Citizen Kane",
+      "Cinema Paradiso"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "66",
+    "Name": "Witness for the Prosecution",
+    "Release_Date": "1957",
+    "Duration": "1h 56m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.4 (133K)",
+    "Page_Link": "https://www.imdb.com/title/tt0051201/?ref_=chttp_i_66",
+    "Recommendations": [
+      "Sunset Blvd.",
+      "The Apartment",
+      "Paths of Glory",
+      "Double Indemnity",
+      "City Lights",
+      "The Great Dictator",
+      "Rear Window",
+      "Dial M for Murder",
+      "Modern Times",
+      "The Lives of Others",
+      "Witness for the Prosecution",
+      "High and Low"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "67",
+    "Name": "Spider-Man: Into the Spider-Verse",
+    "Release_Date": "2018",
+    "Duration": "1h 57m",
+    "Rating_MPA": "PG",
+    "Rating": "8.4 (631K)",
+    "Page_Link": "https://www.imdb.com/title/tt4633694/?ref_=chttp_i_67",
+    "Recommendations": [
+      "WALL·E",
+      "Toy Story",
+      "Coco",
+      "Up",
+      "Toy Story 3",
+      "The Lion King",
+      "The Incredibles",
+      "Ratatouille",
+      "How to Train Your Dragon",
+      "Inside Out",
+      "Finding Nemo",
+      "Monsters, Inc."
+    ],
+    "Genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "68",
+    "Name": "Aliens",
+    "Release_Date": "1986",
+    "Duration": "2h 17m",
+    "Rating_MPA": "R",
+    "Rating": "8.4 (744K)",
+    "Page_Link": "https://www.imdb.com/title/tt0090605/?ref_=chttp_i_68",
+    "Recommendations": [
+      "Alien",
+      "Alien³",
+      "Alien: Resurrection",
+      "Terminator 2: Judgment Day",
+      "The Terminator",
+      "Predator",
+      "Alien: Covenant",
+      "Prometheus",
+      "Raiders of the Lost Ark",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "Jurassic Park",
+      "Die Hard"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Sci",
+      "Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "69",
+    "Name": "The Dark Knight Rises",
+    "Release_Date": "2012",
+    "Duration": "2h 44m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.4 (1.8M)",
+    "Page_Link": "https://www.imdb.com/title/tt1345836/?ref_=chttp_i_69",
+    "Recommendations": [
+      "Batman Begins",
+      "The Dark Knight",
+      "Inception",
+      "Joker",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "Django Unchained",
+      "Interstellar",
+      "The Prestige",
+      "Inglourious Basterds",
+      "The Wolf of Wall Street",
+      "The Matrix"
+    ],
+    "Genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "70",
+    "Name": "Inglourious Basterds",
+    "Release_Date": "2009",
+    "Duration": "2h 33m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (1.5M)",
+    "Page_Link": "https://www.imdb.com/title/tt0361748/?ref_=chttp_i_70",
+    "Recommendations": [
+      "Django Unchained",
+      "Pulp Fiction",
+      "Shutter Island",
+      "The Wolf of Wall Street",
+      "Joker",
+      "Se7en",
+      "Fight Club",
+      "Reservoir Dogs",
+      "Kill Bill: Vol. 1",
+      "Forrest Gump",
+      "Once Upon a Time in Hollywood",
+      "Inception"
+    ],
+    "Genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "71",
+    "Name": "American Beauty",
+    "Release_Date": "1999",
+    "Duration": "2h 2m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (1.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0169547/?ref_=chttp_i_71",
+    "Recommendations": [
+      "American History X",
+      "The Usual Suspects",
+      "Requiem for a Dream",
+      "The Silence of the Lambs",
+      "Good Will Hunting",
+      "Eternal Sunshine of the Spotless Mind",
+      "Léon: The Professional",
+      "The Shining",
+      "One Flew Over the Cuckoo's Nest",
+      "Braveheart",
+      "Reservoir Dogs",
+      "The Departed"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "72",
+    "Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "Release_Date": "1964",
+    "Duration": "1h 35m",
+    "Rating_MPA": "PG",
+    "Rating": "8.4 (507K)",
+    "Page_Link": "https://www.imdb.com/title/tt0057012/?ref_=chttp_i_72",
+    "Recommendations": [
+      "Paths of Glory",
+      "Full Metal Jacket",
+      "2001: A Space Odyssey",
+      "A Clockwork Orange",
+      "Barry Lyndon",
+      "The Shining",
+      "Apocalypse Now",
+      "Lolita",
+      "Rear Window",
+      "Citizen Kane",
+      "Psycho",
+      "Sunset Blvd."
+    ],
+    "Genres": [
+      "Comedy",
+      "War"
+    ]
+  },
+  {
+    "ID": "73",
+    "Name": "Oldboy",
+    "Release_Date": "2003",
+    "Duration": "2h",
+    "Rating_MPA": "R",
+    "Rating": "8.4 (612K)",
+    "Page_Link": "https://www.imdb.com/title/tt0364569/?ref_=chttp_i_73",
+    "Recommendations": [
+      "Parasite",
+      "Memories of Murder",
+      "Memento",
+      "Léon: The Professional",
+      "American Beauty",
+      "Eternal Sunshine of the Spotless Mind",
+      "Reservoir Dogs",
+      "Requiem for a Dream",
+      "The Shining",
+      "Django Unchained",
+      "Oldboy",
+      "Taxi Driver"
+    ],
+    "Genres": [
+      "Action",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "74",
+    "Name": "Coco",
+    "Release_Date": "2017",
+    "Duration": "1h 45m",
+    "Rating_MPA": "PG",
+    "Rating": "8.4 (556K)",
+    "Page_Link": "https://www.imdb.com/title/tt2380307/?ref_=chttp_i_74",
+    "Recommendations": [
+      "Up",
+      "Inside Out",
+      "WALL·E",
+      "Toy Story",
+      "Ratatouille",
+      "Toy Story 3",
+      "Monsters, Inc.",
+      "Finding Nemo",
+      "Soul",
+      "The Lion King",
+      "The Incredibles",
+      "How to Train Your Dragon"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Music",
+      "Mystery"
+    ]
+  },
+  {
+    "ID": "75",
+    "Name": "Amadeus",
+    "Release_Date": "1984",
+    "Duration": "2h 40m",
+    "Rating_MPA": "PG",
+    "Rating": "8.4 (417K)",
+    "Page_Link": "https://www.imdb.com/title/tt0086879/?ref_=chttp_i_75",
+    "Recommendations": [
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "American Beauty",
+      "One Flew Over the Cuckoo's Nest",
+      "Braveheart",
+      "Das Boot",
+      "Good Will Hunting",
+      "Apocalypse Now",
+      "Cinema Paradiso",
+      "Sunset Blvd.",
+      "The Pianist",
+      "Once Upon a Time in America",
+      "Schindler's List"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "ID": "76",
+    "Name": "Toy Story",
+    "Release_Date": "1995",
+    "Duration": "1h 21m",
+    "Rating_MPA": "G",
+    "Rating": "8.3 (1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0114709/?ref_=chttp_i_76",
+    "Recommendations": [
+      "Toy Story 3",
+      "Toy Story 2",
+      "Monsters, Inc.",
+      "Finding Nemo",
+      "Up",
+      "WALL·E",
+      "The Incredibles",
+      "Ratatouille",
+      "Toy Story 4",
+      "The Lion King",
+      "Coco",
+      "Inside Out"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "77",
+    "Name": "Das Boot",
+    "Release_Date": "1981",
+    "Duration": "2h 29m",
+    "Rating_MPA": "8.4",
+    "Rating": " (259K)undefined",
+    "Page_Link": "https://www.imdb.com/title/tt0082096/?ref_=chttp_i_77",
+    "Recommendations": [
+      "Das Boot",
+      "Amadeus",
+      "Downfall",
+      "The Lives of Others",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "Lawrence of Arabia",
+      "Apocalypse Now",
+      "Once Upon a Time in the West",
+      "Once Upon a Time in America",
+      "The Great Dictator",
+      "Braveheart",
+      "Full Metal Jacket"
+    ],
+    "Genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "78",
+    "Name": "Braveheart",
+    "Release_Date": "1995",
+    "Duration": "2h 58m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (1.1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0112573/?ref_=chttp_i_78",
+    "Recommendations": [
+      "Gladiator",
+      "Saving Private Ryan",
+      "Good Will Hunting",
+      "American Beauty",
+      "The Green Mile",
+      "American History X",
+      "Brave Heart",
+      "Die Hard",
+      "The Patriot",
+      "The Silence of the Lambs",
+      "Forrest Gump",
+      "The Lord of the Rings: The Two Towers"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "War"
+    ]
+  },
+  {
+    "ID": "79",
+    "Name": "Avengers: Endgame",
+    "Release_Date": "2019",
+    "Duration": "3h 1m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.4 (1.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt4154796/?ref_=chttp_i_79",
+    "Recommendations": [
+      "Avengers: Infinity War",
+      "The Avengers",
+      "Spider-Man: No Way Home",
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War",
+      "Thor: Ragnarok",
+      "Joker",
+      "The Dark Knight Rises",
+      "Doctor Strange",
+      "Black Panther",
+      "Guardians of the Galaxy",
+      "Captain America: The Winter Soldier"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "80",
+    "Name": "Joker",
+    "Release_Date": "2019",
+    "Duration": "2h 2m",
+    "Rating_MPA": "R",
+    "Rating": "8.4 (1.4M)",
+    "Page_Link": "https://www.imdb.com/title/tt7286456/?ref_=chttp_i_80",
+    "Recommendations": [
+      "The Wolf of Wall Street",
+      "The Dark Knight",
+      "Fight Club",
+      "Inception",
+      "Django Unchained",
+      "The Dark Knight Rises",
+      "Forrest Gump",
+      "Parasite",
+      "Avengers: Endgame",
+      "Interstellar",
+      "Shutter Island",
+      "Inglourious Basterds"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "81",
+    "Name": "Princess Mononoke",
+    "Release_Date": "1997",
+    "Duration": "2h 14m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.3 (416K)",
+    "Page_Link": "https://www.imdb.com/title/tt0119698/?ref_=chttp_i_81",
+    "Recommendations": [
+      "Your Name.",
+      "Grave of the Fireflies",
+      "Nausicaä of the Valley of the Wind",
+      "Porco Rosso",
+      "The Wind Rises",
+      "Akira",
+      "Parasite",
+      "Avengers: Infinity War",
+      "The Matrix",
+      "Tales from Earthsea",
+      "Avengers: Endgame",
+      "The Shining"
+    ],
+    "Genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "82",
+    "Name": "Good Will Hunting",
+    "Release_Date": "1997",
+    "Duration": "2h 6m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0119217/?ref_=chttp_i_82",
+    "Recommendations": [
+      "The Truman Show",
+      "A Beautiful Mind",
+      "The Departed",
+      "Catch Me If You Can",
+      "Forrest Gump",
+      "Dead Poets Society",
+      "Django Unchained",
+      "Whiplash",
+      "Shutter Island",
+      "Saving Private Ryan",
+      "American Beauty",
+      "The Green Mile"
+    ],
+    "Genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "83",
+    "Name": "Once Upon a Time in America",
+    "Release_Date": "1984",
+    "Duration": "3h 49m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (367K)",
+    "Page_Link": "https://www.imdb.com/title/tt0087843/?ref_=chttp_i_83",
+    "Recommendations": [
+      "Once Upon a Time in the West",
+      "Casino",
+      "Scarface",
+      "Reservoir Dogs",
+      "Goodfellas",
+      "Full Metal Jacket",
+      "Raging Bull",
+      "The Good, the Bad and the Ugly",
+      "Taxi Driver",
+      "Apocalypse Now",
+      "Braveheart",
+      "For a Few Dollars More"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "84",
+    "Name": "Your Name.",
+    "Release_Date": "2016",
+    "Duration": "1h 46m",
+    "Rating_MPA": "TV-PG",
+    "Rating": "8.4 (300K)",
+    "Page_Link": "https://www.imdb.com/title/tt5311514/?ref_=chttp_i_84",
+    "Recommendations": [
+      "A Silent Voice: The Movie",
+      "Weathering with You",
+      "Princess Mononoke",
+      "Grave of the Fireflies",
+      "Suzume",
+      "The Garden of Words",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "3 Idiots",
+      "Parasite",
+      "Joker",
+      "Spider-Man: No Way Home"
+    ],
+    "Genres": [
+      "Animation",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "85",
+    "Name": "3 Idiots",
+    "Release_Date": "2009",
+    "Duration": "2h 50m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.4 (419K)",
+    "Page_Link": "https://www.imdb.com/title/tt1187043/?ref_=chttp_i_85",
+    "Recommendations": [
+      "Dangal",
+      "PK",
+      "Munna Bhai M.B.B.S.",
+      "Lagaan: Once Upon a Time in India",
+      "Capernaum",
+      "Bajrangi Bhaijaan",
+      "Drishyam",
+      "Your Name.",
+      "Baahubali 2: The Conclusion",
+      "3 Idiots",
+      "The Lives of Others",
+      "Andhadhun"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "86",
+    "Name": "High and Low",
+    "Release_Date": "1963",
+    "Duration": "2h 23m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.4 (50K)",
+    "Page_Link": "https://www.imdb.com/title/tt0057565/?ref_=chttp_i_86",
+    "Recommendations": [
+      "Ikiru",
+      "Harakiri",
+      "Yojimbo",
+      "Rashomon",
+      "Ran",
+      "Red Beard",
+      "Come and See",
+      "The Hidden Fortress",
+      "Witness for the Prosecution",
+      "Throne of Blood",
+      "Sanjuro",
+      "Paths of Glory"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "87",
+    "Name": "Singin' in the Rain",
+    "Release_Date": "1952",
+    "Duration": "1h 43m",
+    "Rating_MPA": "G",
+    "Rating": "8.3 (254K)",
+    "Page_Link": "https://www.imdb.com/title/tt0045152/?ref_=chttp_i_87",
+    "Recommendations": [
+      "Some Like It Hot",
+      "Citizen Kane",
+      "Casablanca",
+      "Gone with the Wind",
+      "Sunset Blvd.",
+      "Rear Window",
+      "To Kill a Mockingbird",
+      "Vertigo",
+      "North by Northwest",
+      "The Great Dictator",
+      "Watchlist",
+      "City Lights"
+    ],
+    "Genres": [
+      "Comedy",
+      "Musical",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "88",
+    "Name": "Requiem for a Dream",
+    "Release_Date": "2000",
+    "Duration": "1h 42m",
+    "Rating_MPA": "Unrated",
+    "Rating": "8.3 (876K)",
+    "Page_Link": "https://www.imdb.com/title/tt0180093/?ref_=chttp_i_88",
+    "Recommendations": [
+      "Eternal Sunshine of the Spotless Mind",
+      "American Beauty",
+      "A Clockwork Orange",
+      "Trainspotting",
+      "Memento",
+      "American History X",
+      "The Shining",
+      "Léon: The Professional",
+      "Good Will Hunting",
+      "A Beautiful Mind",
+      "Amélie",
+      "Pi"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "89",
+    "Name": "Capernaum",
+    "Release_Date": "2018",
+    "Duration": "2h 6m",
+    "Rating_MPA": "R",
+    "Rating": "8.4 (99K)",
+    "Page_Link": "https://www.imdb.com/title/tt8267604/?ref_=chttp_i_89",
+    "Recommendations": [
+      "3 Idiots",
+      "Incendies",
+      "The Hunt",
+      "A Separation",
+      "The Lives of Others",
+      "Dangal",
+      "The Father",
+      "Come and See",
+      "Requiem for a Dream",
+      "Green Book",
+      "The Intouchables",
+      "Amélie"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "90",
+    "Name": "Toy Story 3",
+    "Release_Date": "2010",
+    "Duration": "1h 43m",
+    "Rating_MPA": "G",
+    "Rating": "8.3 (870K)",
+    "Page_Link": "https://www.imdb.com/title/tt0435761/?ref_=chttp_i_90",
+    "Recommendations": [
+      "Toy Story",
+      "Toy Story 2",
+      "Toy Story 4",
+      "Monsters, Inc.",
+      "Up",
+      "Finding Nemo",
+      "The Incredibles",
+      "WALL·E",
+      "Ratatouille",
+      "The Lion King",
+      "Inside Out",
+      "Coco"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "91",
+    "Name": "Come and See",
+    "Release_Date": "1985",
+    "Duration": "2h 22m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.4 (90K)",
+    "Page_Link": "https://www.imdb.com/title/tt0091251/?ref_=chttp_i_91",
+    "Recommendations": [
+      "High and Low",
+      "Harakiri",
+      "Ikiru",
+      "The Hunt",
+      "Capernaum",
+      "Full Metal Jacket",
+      "La haine",
+      "A Clockwork Orange",
+      "M",
+      "The Seventh Seal",
+      "Stalker",
+      "2001: A Space Odyssey"
+    ],
+    "Genres": [
+      "Drama",
+      "Thriller",
+      "War"
+    ]
+  },
+  {
+    "ID": "92",
+    "Name": "Star Wars: Episode VI - Return of the Jedi",
+    "Release_Date": "1983",
+    "Duration": "2h 11m",
+    "Rating_MPA": "PG",
+    "Rating": "8.3 (1.1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0086190/?ref_=chttp_i_92",
+    "Recommendations": [
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Star Wars: Episode IV - A New Hope",
+      "Star Wars: Episode III - Revenge of the Sith",
+      "Star Wars: Episode II - Attack of the Clones",
+      "Star Wars: Episode I - The Phantom Menace",
+      "Star Wars: Episode VII - The Force Awakens",
+      "Star Wars: Episode VIII - The Last Jedi",
+      "Rogue One: A Star Wars Story",
+      "Star Wars: Episode IX - The Rise of Skywalker",
+      "Solo: A Star Wars Story",
+      "Raiders of the Lost Ark",
+      "Back to the Future"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "93",
+    "Name": "Eternal Sunshine of the Spotless Mind",
+    "Release_Date": "2004",
+    "Duration": "1h 48m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0338013/?ref_=chttp_i_93",
+    "Recommendations": [
+      "The Truman Show",
+      "Requiem for a Dream",
+      "American Beauty",
+      "Good Will Hunting",
+      "A Beautiful Mind",
+      "Amélie",
+      "Parasite",
+      "Memento",
+      "Léon: The Professional",
+      "Whiplash",
+      "Watchlist",
+      "Reservoir Dogs"
+    ],
+    "Genres": [
+      "Drama",
+      "Romance",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "94",
+    "Name": "2001: A Space Odyssey",
+    "Release_Date": "1968",
+    "Duration": "2h 29m",
+    "Rating_MPA": "G",
+    "Rating": "8.3 (699K)",
+    "Page_Link": "https://www.imdb.com/title/tt0062622/?ref_=chttp_i_94",
+    "Recommendations": [
+      "A Clockwork Orange",
+      "Full Metal Jacket",
+      "The Shining",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "2010: The Year We Make Contact",
+      "Apocalypse Now",
+      "Blade Runner",
+      "Reservoir Dogs",
+      "Alien",
+      "Taxi Driver",
+      "Barry Lyndon",
+      "Citizen Kane"
+    ],
+    "Genres": [
+      "Adventure",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "95",
+    "Name": "The Hunt",
+    "Release_Date": "2012",
+    "Duration": "1h 55m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (350K)",
+    "Page_Link": "https://www.imdb.com/title/tt2106476/?ref_=chttp_i_95",
+    "Recommendations": [
+      "The Lives of Others",
+      "Another Round",
+      "Requiem for a Dream",
+      "Eternal Sunshine of the Spotless Mind",
+      "Oldboy",
+      "American Beauty",
+      "The Intouchables",
+      "The Hunt",
+      "Memento",
+      "One Flew Over the Cuckoo's Nest",
+      "A Beautiful Mind",
+      "Taxi Driver"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "96",
+    "Name": "Reservoir Dogs",
+    "Release_Date": "1992",
+    "Duration": "1h 39m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (1.1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0105236/?ref_=chttp_i_96",
+    "Recommendations": [
+      "Kill Bill: Vol. 1",
+      "Pulp Fiction",
+      "Inglourious Basterds",
+      "Django Unchained",
+      "The Hateful Eight",
+      "Kill Bill: Vol. 2",
+      "Scarface",
+      "Full Metal Jacket",
+      "Goodfellas",
+      "Taxi Driver",
+      "Reservoir Dogs",
+      "The Shining"
+    ],
+    "Genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "97",
+    "Name": "Ikiru",
+    "Release_Date": "1952",
+    "Duration": "2h 23m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.3 (84K)",
+    "Page_Link": "https://www.imdb.com/title/tt0044741/?ref_=chttp_i_97",
+    "Recommendations": [
+      "High and Low",
+      "Rashomon",
+      "Yojimbo",
+      "Ran",
+      "Harakiri",
+      "Seven Samurai",
+      "M",
+      "Tokyo Story",
+      "Ikiru",
+      "Throne of Blood",
+      "Come and See",
+      "The Hidden Fortress"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "98",
+    "Name": "Lawrence of Arabia",
+    "Release_Date": "1962",
+    "Duration": "3h 38m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.3 (306K)",
+    "Page_Link": "https://www.imdb.com/title/tt0056172/?ref_=chttp_i_98",
+    "Recommendations": [
+      "The Bridge on the River Kwai",
+      "Ben-Hur",
+      "Citizen Kane",
+      "North by Northwest",
+      "Casablanca",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "Vertigo",
+      "A Dangerous Man: Lawrence After Arabia",
+      "To Kill a Mockingbird",
+      "Singin' in the Rain",
+      "Gone with the Wind",
+      "The Good, the Bad and the Ugly"
+    ],
+    "Genres": [
+      "Adventure",
+      "Biography",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "99",
+    "Name": "Citizen Kane",
+    "Release_Date": "1941",
+    "Duration": "1h 59m",
+    "Rating_MPA": "PG",
+    "Rating": "8.3 (457K)",
+    "Page_Link": "https://www.imdb.com/title/tt0033467/?ref_=chttp_i_99",
+    "Recommendations": [
+      "Vertigo",
+      "Casablanca",
+      "Rear Window",
+      "North by Northwest",
+      "Lawrence of Arabia",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "Sunset Blvd.",
+      "2001: A Space Odyssey",
+      "Singin' in the Rain",
+      "Psycho",
+      "Gone with the Wind",
+      "To Kill a Mockingbird"
+    ],
+    "Genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "ID": "100",
+    "Name": "M",
+    "Release_Date": "1931",
+    "Duration": "1h 39m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.3 (164K)",
+    "Page_Link": "https://www.imdb.com/title/tt0022100/?ref_=chttp_i_100",
+    "Recommendations": [
+      "Metropolis",
+      "Double Indemnity",
+      "Sunset Blvd.",
+      "Citizen Kane",
+      "Bicycle Thieves",
+      "City Lights",
+      "Ikiru",
+      "Vertigo",
+      "High and Low",
+      "The Great Dictator",
+      "Witness for the Prosecution",
+      "North by Northwest"
+    ],
+    "Genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "101",
+    "Name": "The Apartment",
+    "Release_Date": "1960",
+    "Duration": "2h 5m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.3 (190K)",
+    "Page_Link": "https://www.imdb.com/title/tt0053604/?ref_=chttp_i_101",
+    "Recommendations": [
+      "Some Like It Hot",
+      "Double Indemnity",
+      "Sunset Blvd.",
+      "Witness for the Prosecution",
+      "North by Northwest",
+      "Vertigo",
+      "All About Eve",
+      "Rear Window",
+      "To Kill a Mockingbird",
+      "Paths of Glory",
+      "M",
+      "The Sting"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "102",
+    "Name": "North by Northwest",
+    "Release_Date": "1959",
+    "Duration": "2h 16m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.3 (339K)",
+    "Page_Link": "https://www.imdb.com/title/tt0053125/?ref_=chttp_i_102",
+    "Recommendations": [
+      "Vertigo",
+      "Rear Window",
+      "Dial M for Murder",
+      "Psycho",
+      "The Birds",
+      "Citizen Kane",
+      "Double Indemnity",
+      "The Apartment",
+      "Sunset Blvd.",
+      "Some Like It Hot",
+      "Rebecca",
+      "The Man Who Knew Too Much"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "103",
+    "Name": "Vertigo",
+    "Release_Date": "1958",
+    "Duration": "2h 8m",
+    "Rating_MPA": "PG",
+    "Rating": "8.3 (417K)",
+    "Page_Link": "https://www.imdb.com/title/tt0052357/?ref_=chttp_i_103",
+    "Recommendations": [
+      "Rear Window",
+      "North by Northwest",
+      "Psycho",
+      "Citizen Kane",
+      "Dial M for Murder",
+      "The Birds",
+      "The Apartment",
+      "Rope",
+      "Sunset Blvd.",
+      "Double Indemnity",
+      "Casablanca",
+      "A Clockwork Orange"
+    ],
+    "Genres": [
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "104",
+    "Name": "Double Indemnity",
+    "Release_Date": "1944",
+    "Duration": "1h 47m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.3 (163K)",
+    "Page_Link": "https://www.imdb.com/title/tt0036775/?ref_=chttp_i_104",
+    "Recommendations": [
+      "Sunset Blvd.",
+      "The Apartment",
+      "Witness for the Prosecution",
+      "All About Eve",
+      "North by Northwest",
+      "Dial M for Murder",
+      "Some Like It Hot",
+      "The Third Man",
+      "The Treasure of the Sierra Madre",
+      "M",
+      "Vertigo",
+      "Rebecca"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Film",
+      "Noir",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "105",
+    "Name": "Amélie",
+    "Release_Date": "2001",
+    "Duration": "2h 2m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (779K)",
+    "Page_Link": "https://www.imdb.com/title/tt0211915/?ref_=chttp_i_105",
+    "Recommendations": [
+      "Eternal Sunshine of the Spotless Mind",
+      "Requiem for a Dream",
+      "American Beauty",
+      "The Intouchables",
+      "A Clockwork Orange",
+      "Life Is Beautiful",
+      "A Beautiful Mind",
+      "The Truman Show",
+      "Pan's Labyrinth",
+      "Trainspotting",
+      "Good Will Hunting",
+      "Léon: The Professional"
+    ],
+    "Genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "106",
+    "Name": "Scarface",
+    "Release_Date": "1983",
+    "Duration": "2h 50m",
+    "Rating_MPA": "18+",
+    "Rating": "8.3 (886K)",
+    "Page_Link": "https://www.imdb.com/title/tt0086250/?ref_=chttp_i_106",
+    "Recommendations": [
+      "Taxi Driver",
+      "Goodfellas",
+      "The Godfather Part II",
+      "The Godfather",
+      "Reservoir Dogs",
+      "Inglourious Basterds",
+      "Casino",
+      "Django Unchained",
+      "Scarface",
+      "Pulp Fiction",
+      "Full Metal Jacket",
+      "Se7en"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "107",
+    "Name": "Full Metal Jacket",
+    "Release_Date": "1987",
+    "Duration": "1h 56m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (771K)",
+    "Page_Link": "https://www.imdb.com/title/tt0093058/?ref_=chttp_i_107",
+    "Recommendations": [
+      "A Clockwork Orange",
+      "The Shining",
+      "2001: A Space Odyssey",
+      "Apocalypse Now",
+      "Reservoir Dogs",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "Scarface",
+      "Platoon",
+      "Barry Lyndon",
+      "Taxi Driver",
+      "Eyes Wide Shut",
+      "Braveheart"
+    ],
+    "Genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "108",
+    "Name": "A Clockwork Orange",
+    "Release_Date": "1971",
+    "Duration": "2h 16m",
+    "Rating_MPA": "X",
+    "Rating": "8.3 (861K)",
+    "Page_Link": "https://www.imdb.com/title/tt0066921/?ref_=chttp_i_108",
+    "Recommendations": [
+      "Full Metal Jacket",
+      "The Shining",
+      "2001: A Space Odyssey",
+      "Taxi Driver",
+      "Trainspotting",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "Reservoir Dogs",
+      "Requiem for a Dream",
+      "Scarface",
+      "Barry Lyndon",
+      "Kill Bill: Vol. 1",
+      "American Beauty"
+    ],
+    "Genres": [
+      "Crime",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "109",
+    "Name": "Incendies",
+    "Release_Date": "2010",
+    "Duration": "2h 11m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (189K)",
+    "Page_Link": "https://www.imdb.com/title/tt1255953/?ref_=chttp_i_109",
+    "Recommendations": [
+      "A Separation",
+      "Capernaum",
+      "The Lives of Others",
+      "The Hunt",
+      "Polytechnique",
+      "Prisoners",
+      "Memories of Murder",
+      "The Secret in Their Eyes",
+      "City of God",
+      "Maelstrom",
+      "Enemy",
+      "Amélie"
+    ],
+    "Genres": [
+      "Drama",
+      "Mystery",
+      "War"
+    ]
+  },
+  {
+    "ID": "110",
+    "Name": "Heat",
+    "Release_Date": "1995",
+    "Duration": "2h 50m",
+    "Rating_MPA": "R",
+    "Rating": "8.3 (694K)",
+    "Page_Link": "https://www.imdb.com/title/tt0113277/?ref_=chttp_i_110",
+    "Recommendations": [
+      "Scarface",
+      "Casino",
+      "Taxi Driver",
+      "Goodfellas",
+      "Snatch",
+      "L.A. Confidential",
+      "Reservoir Dogs",
+      "L.A. Takedown",
+      "The Departed",
+      "There Will Be Blood",
+      "Die Hard",
+      "No Country for Old Men"
+    ],
+    "Genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "111",
+    "Name": "Up",
+    "Release_Date": "2009",
+    "Duration": "1h 36m",
+    "Rating_MPA": "PG",
+    "Rating": "8.3 (1.1M)",
+    "Page_Link": "https://www.imdb.com/title/tt1049413/?ref_=chttp_i_111",
+    "Recommendations": [
+      "WALL·E",
+      "Monsters, Inc.",
+      "Finding Nemo",
+      "Ratatouille",
+      "Inside Out",
+      "Toy Story",
+      "Toy Story 3",
+      "The Incredibles",
+      "Coco",
+      "How to Train Your Dragon",
+      "The Lion King",
+      "Aladdin"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family"
+    ]
+  },
+  {
+    "ID": "112",
+    "Name": "Hamilton",
+    "Release_Date": "2020",
+    "Duration": "2h 40m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.3 (106K)",
+    "Page_Link": "https://www.imdb.com/title/tt8503618/?ref_=chttp_i_112",
+    "Recommendations": [
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Avengers: Endgame",
+      "To Kill a Mockingbird",
+      "Spider-Man: No Way Home",
+      "Jurassic Park",
+      "Monty Python and the Holy Grail",
+      "Avengers: Infinity War",
+      "The Greatest Showman",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "Singin' in the Rain",
+      "Die Hard",
+      "In the Heights"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "Musical"
+    ]
+  },
+  {
+    "ID": "113",
+    "Name": "To Kill a Mockingbird",
+    "Release_Date": "1962",
+    "Duration": "2h 9m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.3 (326K)",
+    "Page_Link": "https://www.imdb.com/title/tt0056592/?ref_=chttp_i_113",
+    "Recommendations": [
+      "The Sting",
+      "Singin' in the Rain",
+      "North by Northwest",
+      "Citizen Kane",
+      "The Apartment",
+      "Double Indemnity",
+      "Some Like It Hot",
+      "Vertigo",
+      "Gone with the Wind",
+      "Lawrence of Arabia",
+      "Watchlist",
+      "The Bridge on the River Kwai"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "114",
+    "Name": "The Sting",
+    "Release_Date": "1973",
+    "Duration": "2h 9m",
+    "Rating_MPA": "PG",
+    "Rating": "8.3 (273K)",
+    "Page_Link": "https://www.imdb.com/title/tt0070735/?ref_=chttp_i_114",
+    "Recommendations": [
+      "To Kill a Mockingbird",
+      "North by Northwest",
+      "Butch Cassidy and the Sundance Kid",
+      "Cool Hand Luke",
+      "The Great Escape",
+      "Some Like It Hot",
+      "The Bridge on the River Kwai",
+      "The Apartment",
+      "For a Few Dollars More",
+      "Unforgiven",
+      "The Sting II",
+      "Vertigo"
+    ],
+    "Genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "115",
+    "Name": "A Separation",
+    "Release_Date": "2011",
+    "Duration": "2h 3m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.3 (253K)",
+    "Page_Link": "https://www.imdb.com/title/tt1832382/?ref_=chttp_i_115",
+    "Recommendations": [
+      "The Salesman",
+      "About Elly",
+      "Incendies",
+      "Capernaum",
+      "Life and a Day",
+      "A Hero",
+      "Fireworks Wednesday",
+      "The Lives of Others",
+      "The Hunt",
+      "Leila's Brothers",
+      "3 Idiots",
+      "The Lizard"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "116",
+    "Name": "Indiana Jones and the Last Crusade",
+    "Release_Date": "1989",
+    "Duration": "2h 7m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.2 (793K)",
+    "Page_Link": "https://www.imdb.com/title/tt0097576/?ref_=chttp_i_116",
+    "Recommendations": [
+      "Indiana Jones and the Temple of Doom",
+      "Raiders of the Lost Ark",
+      "Indiana Jones and the Kingdom of the Crystal Skull",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "Jurassic Park",
+      "Die Hard",
+      "Star Wars: Episode IV - A New Hope",
+      "Back to the Future",
+      "Star Wars: Episode V - The Empire Strikes Back",
+      "Indiana Jones and the Dial of Destiny",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Jaws"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure"
+    ]
+  },
+  {
+    "ID": "117",
+    "Name": "Metropolis",
+    "Release_Date": "1927",
+    "Duration": "2h 33m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.3 (181K)",
+    "Page_Link": "https://www.imdb.com/title/tt0017136/?ref_=chttp_i_117",
+    "Recommendations": [
+      "M",
+      "Bicycle Thieves",
+      "The General",
+      "The Gold Rush",
+      "Watchlist",
+      "The Great Dictator",
+      "Citizen Kane",
+      "The Cabinet of Dr. Caligari",
+      "Sherlock Jr.",
+      "City Lights",
+      "Nosferatu",
+      "Sunset Blvd."
+    ],
+    "Genres": [
+      "Drama",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "118",
+    "Name": "Die Hard",
+    "Release_Date": "1988",
+    "Duration": "2h 12m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (913K)",
+    "Page_Link": "https://www.imdb.com/title/tt0095016/?ref_=chttp_i_118",
+    "Recommendations": [
+      "Die Hard 2",
+      "Die Hard with a Vengeance",
+      "The Terminator",
+      "Live Free or Die Hard",
+      "Indiana Jones and the Last Crusade",
+      "Terminator 2: Judgment Day",
+      "Braveheart",
+      "Raiders of the Lost Ark",
+      "Jurassic Park",
+      "Back to the Future",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "The Sixth Sense"
+    ],
+    "Genres": [
+      "Action",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "119",
+    "Name": "Like Stars on Earth",
+    "Release_Date": "2007",
+    "Duration": "2h 45m",
+    "Rating_MPA": "PG",
+    "Rating": "8.3 (202K)",
+    "Page_Link": "https://www.imdb.com/title/tt0986264/?ref_=chttp_i_119",
+    "Recommendations": [
+      "Chak De! India",
+      "My Father and My Son",
+      "Up",
+      "Children of Heaven",
+      "How to Train Your Dragon",
+      "Harry Potter and the Deathly Hallows: Part 2",
+      "Toy Story",
+      "Toy Story 3",
+      "Coco",
+      "Finding Nemo",
+      "WALL·E",
+      "Ratatouille"
+    ],
+    "Genres": [
+      "Drama",
+      "Family"
+    ]
+  },
+  {
+    "ID": "120",
+    "Name": "L.A. Confidential",
+    "Release_Date": "1997",
+    "Duration": "2h 18m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (602K)",
+    "Page_Link": "https://www.imdb.com/title/tt0119488/?ref_=chttp_i_120",
+    "Recommendations": [
+      "Heat",
+      "Snatch",
+      "The Usual Suspects",
+      "Die Hard",
+      "American Beauty",
+      "Casino",
+      "The Sixth Sense",
+      "Lock, Stock and Two Smoking Barrels",
+      "Full Metal Jacket",
+      "Taxi Driver",
+      "Reservoir Dogs",
+      "Watchlist"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "121",
+    "Name": "Snatch",
+    "Release_Date": "2000",
+    "Duration": "1h 42m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (887K)",
+    "Page_Link": "https://www.imdb.com/title/tt0208092/?ref_=chttp_i_121",
+    "Recommendations": [
+      "Lock, Stock and Two Smoking Barrels",
+      "Reservoir Dogs",
+      "Trainspotting",
+      "The Big Lebowski",
+      "Scarface",
+      "Inglourious Basterds",
+      "Kill Bill: Vol. 1",
+      "Django Unchained",
+      "Full Metal Jacket",
+      "The Usual Suspects",
+      "Die Hard",
+      "No Country for Old Men"
+    ],
+    "Genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  {
+    "ID": "122",
+    "Name": "Bicycle Thieves",
+    "Release_Date": "1948",
+    "Duration": "1h 29m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.3 (171K)",
+    "Page_Link": "https://www.imdb.com/title/tt0040522/?ref_=chttp_i_122",
+    "Recommendations": [
+      "The 400 Blows",
+      "Rashomon",
+      "M",
+      "Metropolis",
+      "Citizen Kane",
+      "Sunset Blvd.",
+      "Double Indemnity",
+      "Paths of Glory",
+      "Ikiru",
+      "The Great Dictator",
+      "Modern Times",
+      "City Lights"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "123",
+    "Name": "Taxi Driver",
+    "Release_Date": "1976",
+    "Duration": "1h 54m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (887K)",
+    "Page_Link": "https://www.imdb.com/title/tt0075314/?ref_=chttp_i_123",
+    "Recommendations": [
+      "Scarface",
+      "Goodfellas",
+      "Raging Bull",
+      "Reservoir Dogs",
+      "Shutter Island",
+      "A Clockwork Orange",
+      "Fight Club",
+      "Pulp Fiction",
+      "Se7en",
+      "Django Unchained",
+      "The Shining",
+      "Inglourious Basterds"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "124",
+    "Name": "1917",
+    "Release_Date": "2019",
+    "Duration": "1h 59m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (643K)",
+    "Page_Link": "https://www.imdb.com/title/tt8579674/?ref_=chttp_i_124",
+    "Recommendations": [
+      "Hacksaw Ridge",
+      "Joker",
+      "Dunkirk",
+      "Saving Private Ryan",
+      "Shutter Island",
+      "Inglourious Basterds",
+      "Parasite",
+      "The Wolf of Wall Street",
+      "Green Book",
+      "Django Unchained",
+      "Mad Max: Fury Road",
+      "Catch Me If You Can"
+    ],
+    "Genres": [
+      "Action",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "125",
+    "Name": "Downfall",
+    "Release_Date": "2004",
+    "Duration": "2h 36m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (367K)",
+    "Page_Link": "https://www.imdb.com/title/tt0363163/?ref_=chttp_i_125",
+    "Recommendations": [
+      "The Lives of Others",
+      "Das Boot",
+      "1917",
+      "Braveheart",
+      "The Pianist",
+      "Hotel Rwanda",
+      "A Beautiful Mind",
+      "Full Metal Jacket",
+      "V for Vendetta",
+      "Schindler's List",
+      "Capernaum",
+      "The Intouchables"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "War"
+    ]
+  },
+  {
+    "ID": "126",
+    "Name": "Dangal",
+    "Release_Date": "2016",
+    "Duration": "2h 41m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.3 (202K)",
+    "Page_Link": "https://www.imdb.com/title/tt5074352/?ref_=chttp_i_126",
+    "Recommendations": [
+      "3 Idiots",
+      "PK",
+      "Bajrangi Bhaijaan",
+      "Lagaan: Once Upon a Time in India",
+      "Drishyam",
+      "Baahubali 2: The Conclusion",
+      "Jai Bhim",
+      "Secret Superstar",
+      "Ghajini",
+      "Munna Bhai M.B.B.S.",
+      "Sanju",
+      "Andhadhun"
+    ],
+    "Genres": [
+      "Action",
+      "Biography",
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "ID": "127",
+    "Name": "For a Few Dollars More",
+    "Release_Date": "1965",
+    "Duration": "2h 12m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (267K)",
+    "Page_Link": "https://www.imdb.com/title/tt0059578/?ref_=chttp_i_127",
+    "Recommendations": [
+      "A Fistful of Dollars",
+      "The Good, the Bad and the Ugly",
+      "Once Upon a Time in the West",
+      "Unforgiven",
+      "Once Upon a Time in America",
+      "Duck, You Sucker!",
+      "The Sting",
+      "The Outlaw Josey Wales",
+      "The Great Escape",
+      "Gran Torino",
+      "Some Like It Hot",
+      "Full Metal Jacket"
+    ],
+    "Genres": [
+      "Drama",
+      "Western"
+    ]
+  },
+  {
+    "ID": "128",
+    "Name": "Top Gun: Maverick",
+    "Release_Date": "2022",
+    "Duration": "2h 10m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.3 (632K)",
+    "Page_Link": "https://www.imdb.com/title/tt1745960/?ref_=chttp_i_128",
+    "Recommendations": [
+      "Top Gun",
+      "Avengers: Endgame",
+      "Avengers: Infinity War",
+      "Spider-Man: No Way Home",
+      "1917",
+      "Joker",
+      "The Dark Knight Rises",
+      "The Wolf of Wall Street",
+      "Inception",
+      "Jurassic Park",
+      "Interstellar",
+      "Batman Begins"
+    ],
+    "Genres": [
+      "Action",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "129",
+    "Name": "Batman Begins",
+    "Release_Date": "2005",
+    "Duration": "2h 20m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.2 (1.5M)",
+    "Page_Link": "https://www.imdb.com/title/tt0372784/?ref_=chttp_i_129",
+    "Recommendations": [
+      "The Dark Knight Rises",
+      "The Dark Knight",
+      "Joker",
+      "Inception",
+      "Avengers: Endgame",
+      "Avengers: Infinity War",
+      "The Prestige",
+      "Django Unchained",
+      "The Wolf of Wall Street",
+      "The Batman",
+      "Shutter Island",
+      "Interstellar"
+    ],
+    "Genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "130",
+    "Name": "Some Like It Hot",
+    "Release_Date": "1959",
+    "Duration": "2h 1m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.2 (277K)",
+    "Page_Link": "https://www.imdb.com/title/tt0053291/?ref_=chttp_i_130",
+    "Recommendations": [
+      "The Apartment",
+      "Sunset Blvd.",
+      "All About Eve",
+      "Singin' in the Rain",
+      "Double Indemnity",
+      "The Seven Year Itch",
+      "North by Northwest",
+      "Vertigo",
+      "Gone with the Wind",
+      "Rear Window",
+      "Casablanca",
+      "Gentlemen Prefer Blondes"
+    ],
+    "Genres": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "131",
+    "Name": "The Kid",
+    "Release_Date": "1921",
+    "Duration": "1h 8m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.2 (132K)",
+    "Page_Link": "https://www.imdb.com/title/tt0012349/?ref_=chttp_i_131",
+    "Recommendations": [
+      "The Circus",
+      "Children of Heaven",
+      "It's a Wonderful Life",
+      "The Kid",
+      "Like Stars on Earth",
+      "Finding Nemo",
+      "The Wizard of Oz",
+      "Toy Story",
+      "Toy Story 3",
+      "The Lion King",
+      "Up",
+      "Aladdin"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ]
+  },
+  {
+    "ID": "132",
+    "Name": "The Wolf of Wall Street",
+    "Release_Date": "2013",
+    "Duration": "3h",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (1.5M)",
+    "Page_Link": "https://www.imdb.com/title/tt0993846/?ref_=chttp_i_132",
+    "Recommendations": [
+      "Django Unchained",
+      "Shutter Island",
+      "Joker",
+      "Inception",
+      "Fight Club",
+      "Forrest Gump",
+      "Inglourious Basterds",
+      "Interstellar",
+      "The Dark Knight",
+      "Catch Me If You Can",
+      "Pulp Fiction",
+      "Se7en"
+    ],
+    "Genres": [
+      "Biography",
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "133",
+    "Name": "The Father",
+    "Release_Date": "2020",
+    "Duration": "1h 37m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.2 (178K)",
+    "Page_Link": "https://www.imdb.com/title/tt10272386/?ref_=chttp_i_133",
+    "Recommendations": [
+      "Green Book",
+      "1917",
+      "Capernaum",
+      "The Son",
+      "The Hunt",
+      "Three Billboards Outside Ebbing, Missouri",
+      "Room",
+      "A Separation",
+      "The Sixth Sense",
+      "12 Years a Slave",
+      "Parasite",
+      "Hamilton"
+    ],
+    "Genres": [
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "ID": "134",
+    "Name": "Green Book",
+    "Release_Date": "2018",
+    "Duration": "2h 10m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.2 (536K)",
+    "Page_Link": "https://www.imdb.com/title/tt6966692/?ref_=chttp_i_134",
+    "Recommendations": [
+      "The Intouchables",
+      "1917",
+      "A Beautiful Mind",
+      "12 Years a Slave",
+      "Catch Me If You Can",
+      "Parasite",
+      "Ford v Ferrari",
+      "The Truman Show",
+      "Shutter Island",
+      "The Wolf of Wall Street",
+      "The Green Book: Guide to Freedom",
+      "Three Billboards Outside Ebbing, Missouri"
+    ],
+    "Genres": [
+      "Biography",
+      "Comedy",
+      "Drama",
+      "Music"
+    ]
+  },
+  {
+    "ID": "135",
+    "Name": "All About Eve",
+    "Release_Date": "1950",
+    "Duration": "2h 18m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.2 (136K)",
+    "Page_Link": "https://www.imdb.com/title/tt0042192/?ref_=chttp_i_135",
+    "Recommendations": [
+      "Some Like It Hot",
+      "Double Indemnity",
+      "Sunset Blvd.",
+      "The Treasure of the Sierra Madre",
+      "On the Waterfront",
+      "The Apartment",
+      "Rebecca",
+      "It Happened One Night",
+      "Judgment at Nuremberg",
+      "Mr. Smith Goes to Washington",
+      "The Third Man",
+      "The Best Years of Our Lives"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "136",
+    "Name": "Judgment at Nuremberg",
+    "Release_Date": "1961",
+    "Duration": "2h 59m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.3 (82K)",
+    "Page_Link": "https://www.imdb.com/title/tt0055031/?ref_=chttp_i_136",
+    "Recommendations": [
+      "All About Eve",
+      "Witness for the Prosecution",
+      "The Treasure of the Sierra Madre",
+      "The Bridge on the River Kwai",
+      "To Kill a Mockingbird",
+      "The Great Escape",
+      "Some Like It Hot",
+      "The Battle of Algiers",
+      "Yojimbo",
+      "Ben-Hur",
+      "Ran",
+      "The Sting"
+    ],
+    "Genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "137",
+    "Name": "The Truman Show",
+    "Release_Date": "1998",
+    "Duration": "1h 43m",
+    "Rating_MPA": "PG",
+    "Rating": "8.2 (1.1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0120382/?ref_=chttp_i_137",
+    "Recommendations": [
+      "Catch Me If You Can",
+      "Shutter Island",
+      "Eternal Sunshine of the Spotless Mind",
+      "Forrest Gump",
+      "The Wolf of Wall Street",
+      "Django Unchained",
+      "Good Will Hunting",
+      "Joker",
+      "Fight Club",
+      "Inglourious Basterds",
+      "Se7en",
+      "The Intouchables"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "138",
+    "Name": "There Will Be Blood",
+    "Release_Date": "2007",
+    "Duration": "2h 38m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (620K)",
+    "Page_Link": "https://www.imdb.com/title/tt0469494/?ref_=chttp_i_138",
+    "Recommendations": [
+      "No Country for Old Men",
+      "Taxi Driver",
+      "Phantom Thread",
+      "Fargo",
+      "Casino",
+      "Goodfellas",
+      "Gangs of New York",
+      "Heat",
+      "Prisoners",
+      "Scarface",
+      "The Departed",
+      "Lincoln"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "139",
+    "Name": "Ran",
+    "Release_Date": "1985",
+    "Duration": "2h 42m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (132K)",
+    "Page_Link": "https://www.imdb.com/title/tt0089881/?ref_=chttp_i_139",
+    "Recommendations": [
+      "Yojimbo",
+      "Rashomon",
+      "Ikiru",
+      "Kagemusha",
+      "Seven Samurai",
+      "High and Low",
+      "Harakiri",
+      "The Hidden Fortress",
+      "Throne of Blood",
+      "Sanjuro",
+      "Tokyo Story",
+      "Paths of Glory"
+    ],
+    "Genres": [
+      "Action",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "140",
+    "Name": "Casino",
+    "Release_Date": "1995",
+    "Duration": "2h 58m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (546K)",
+    "Page_Link": "https://www.imdb.com/title/tt0112641/?ref_=chttp_i_140",
+    "Recommendations": [
+      "Goodfellas",
+      "Scarface",
+      "Heat",
+      "Raging Bull",
+      "Taxi Driver",
+      "The Irishman",
+      "Reservoir Dogs",
+      "Full Metal Jacket",
+      "The Departed",
+      "Once Upon a Time in America",
+      "There Will Be Blood",
+      "The Godfather Part II"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "141",
+    "Name": "Shutter Island",
+    "Release_Date": "2010",
+    "Duration": "2h 18m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (1.4M)",
+    "Page_Link": "https://www.imdb.com/title/tt1130884/?ref_=chttp_i_141",
+    "Recommendations": [
+      "The Wolf of Wall Street",
+      "Django Unchained",
+      "Se7en",
+      "Catch Me If You Can",
+      "Inception",
+      "Inglourious Basterds",
+      "Fight Club",
+      "Joker",
+      "Forrest Gump",
+      "The Truman Show",
+      "The Departed",
+      "The Prestige"
+    ],
+    "Genres": [
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "142",
+    "Name": "Pan's Labyrinth",
+    "Release_Date": "2006",
+    "Duration": "1h 58m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (689K)",
+    "Page_Link": "https://www.imdb.com/title/tt0457430/?ref_=chttp_i_142",
+    "Recommendations": [
+      "The Sixth Sense",
+      "Amélie",
+      "V for Vendetta",
+      "The Shape of Water",
+      "A Clockwork Orange",
+      "The Devil's Backbone",
+      "Eternal Sunshine of the Spotless Mind",
+      "Kill Bill: Vol. 1",
+      "The Truman Show",
+      "Gran Torino",
+      "The Shining",
+      "No Country for Old Men"
+    ],
+    "Genres": [
+      "Drama",
+      "Fantasy",
+      "War"
+    ]
+  },
+  {
+    "ID": "143",
+    "Name": "The Sixth Sense",
+    "Release_Date": "1999",
+    "Duration": "1h 47m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.2 (1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0167404/?ref_=chttp_i_143",
+    "Recommendations": [
+      "A Beautiful Mind",
+      "The Truman Show",
+      "Shutter Island",
+      "Die Hard",
+      "Catch Me If You Can",
+      "V for Vendetta",
+      "Jurassic Park",
+      "Kill Bill: Vol. 1",
+      "The Silence of the Lambs",
+      "Good Will Hunting",
+      "Signs",
+      "Unbreakable"
+    ],
+    "Genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "144",
+    "Name": "Unforgiven",
+    "Release_Date": "1992",
+    "Duration": "2h 10m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (427K)",
+    "Page_Link": "https://www.imdb.com/title/tt0105695/?ref_=chttp_i_144",
+    "Recommendations": [
+      "Gran Torino",
+      "Million Dollar Baby",
+      "For a Few Dollars More",
+      "The Good, the Bad and the Ugly",
+      "Once Upon a Time in the West",
+      "Platoon",
+      "Casino",
+      "A Fistful of Dollars",
+      "L.A. Confidential",
+      "Unforgiven",
+      "The Outlaw Josey Wales",
+      "Full Metal Jacket"
+    ],
+    "Genres": [
+      "Drama",
+      "Western"
+    ]
+  },
+  {
+    "ID": "145",
+    "Name": "Jurassic Park",
+    "Release_Date": "1993",
+    "Duration": "2h 7m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.2 (1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0107290/?ref_=chttp_i_145",
+    "Recommendations": [
+      "The Lost World: Jurassic Park",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Back to the Future",
+      "Jurassic Park III",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "Raiders of the Lost Ark",
+      "Jurassic World",
+      "Star Wars: Episode IV - A New Hope",
+      "Jaws",
+      "The Terminator",
+      "Avengers: Infinity War",
+      "Avengers: Endgame"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Sci",
+      "Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "146",
+    "Name": "A Beautiful Mind",
+    "Release_Date": "2001",
+    "Duration": "2h 15m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.2 (964K)",
+    "Page_Link": "https://www.imdb.com/title/tt0268978/?ref_=chttp_i_146",
+    "Recommendations": [
+      "Good Will Hunting",
+      "Catch Me If You Can",
+      "The Sixth Sense",
+      "The Truman Show",
+      "Green Book",
+      "Shutter Island",
+      "V for Vendetta",
+      "12 Years a Slave",
+      "The Intouchables",
+      "The Pianist",
+      "Million Dollar Baby",
+      "Eternal Sunshine of the Spotless Mind"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "147",
+    "Name": "The Treasure of the Sierra Madre",
+    "Release_Date": "1948",
+    "Duration": "2h 6m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.2 (130K)",
+    "Page_Link": "https://www.imdb.com/title/tt0040897/?ref_=chttp_i_147",
+    "Recommendations": [
+      "Double Indemnity",
+      "On the Waterfront",
+      "All About Eve",
+      "The Third Man",
+      "The Maltese Falcon",
+      "Mr. Smith Goes to Washington",
+      "The Bridge on the River Kwai",
+      "The Grapes of Wrath",
+      "The Wages of Fear",
+      "Dial M for Murder",
+      "The Great Escape",
+      "Some Like It Hot"
+    ],
+    "Genres": [
+      "Adventure",
+      "Drama",
+      "Western"
+    ]
+  },
+  {
+    "ID": "148",
+    "Name": "Yojimbo",
+    "Release_Date": "1961",
+    "Duration": "1h 50m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.2 (128K)",
+    "Page_Link": "https://www.imdb.com/title/tt0055630/?ref_=chttp_i_148",
+    "Recommendations": [
+      "Sanjuro",
+      "Rashomon",
+      "Ran",
+      "The Hidden Fortress",
+      "Throne of Blood",
+      "High and Low",
+      "Seven Samurai",
+      "Ikiru",
+      "Harakiri",
+      "Kagemusha",
+      "Red Beard",
+      "The Treasure of the Sierra Madre"
+    ],
+    "Genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "149",
+    "Name": "No Country for Old Men",
+    "Release_Date": "2007",
+    "Duration": "2h 2m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0477348/?ref_=chttp_i_149",
+    "Recommendations": [
+      "Shutter Island",
+      "Django Unchained",
+      "Inglourious Basterds",
+      "There Will Be Blood",
+      "Kill Bill: Vol. 1",
+      "Reservoir Dogs",
+      "The Departed",
+      "Taxi Driver",
+      "Se7en",
+      "Pulp Fiction",
+      "Fargo",
+      "The Truman Show"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "150",
+    "Name": "Kill Bill: Vol. 1",
+    "Release_Date": "2003",
+    "Duration": "1h 51m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (1.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0266697/?ref_=chttp_i_150",
+    "Recommendations": [
+      "Kill Bill: Vol. 2",
+      "Reservoir Dogs",
+      "Inglourious Basterds",
+      "Django Unchained",
+      "Pulp Fiction",
+      "The Hateful Eight",
+      "No Country for Old Men",
+      "Kill Bill: The Whole Bloody Affair",
+      "The Truman Show",
+      "Shutter Island",
+      "Once Upon a Time in Hollywood",
+      "V for Vendetta"
+    ],
+    "Genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "151",
+    "Name": "Monty Python and the Holy Grail",
+    "Release_Date": "1975",
+    "Duration": "1h 31m",
+    "Rating_MPA": "PG",
+    "Rating": "8.2 (559K)",
+    "Page_Link": "https://www.imdb.com/title/tt0071853/?ref_=chttp_i_151",
+    "Recommendations": [
+      "Life of Brian",
+      "The Meaning of Life",
+      "Monty Python's Flying Circus",
+      "Groundhog Day",
+      "Monty Python Live at the Hollywood Bowl",
+      "Monty Python's Fliegender Zirkus",
+      "And Now for Something Completely Different",
+      "Die Hard",
+      "Jurassic Park",
+      "The Terminator",
+      "Jaws",
+      "Star Wars: Episode VI - Return of the Jedi"
+    ],
+    "Genres": [
+      "Adventure",
+      "Comedy",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "152",
+    "Name": "The Great Escape",
+    "Release_Date": "1963",
+    "Duration": "2h 52m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.2 (253K)",
+    "Page_Link": "https://www.imdb.com/title/tt0057115/?ref_=chttp_i_152",
+    "Recommendations": [
+      "The Bridge on the River Kwai",
+      "The Sting",
+      "The Great Escape II: The Untold Story",
+      "Ben-Hur",
+      "For a Few Dollars More",
+      "The Treasure of the Sierra Madre",
+      "Unforgiven",
+      "The Great Escape",
+      "Chinatown",
+      "Lawrence of Arabia",
+      "Some Like It Hot",
+      "Cool Hand Luke"
+    ],
+    "Genres": [
+      "Adventure",
+      "Drama",
+      "History",
+      "Thriller",
+      "War"
+    ]
+  },
+  {
+    "ID": "153",
+    "Name": "The Thing",
+    "Release_Date": "1982",
+    "Duration": "1h 49m",
+    "Rating_MPA": "16+",
+    "Rating": "8.2 (448K)",
+    "Page_Link": "https://www.imdb.com/title/tt0084787/?ref_=chttp_i_153",
+    "Recommendations": [
+      "Alien",
+      "The Thing",
+      "Aliens",
+      "The Shining",
+      "The Terminator",
+      "Blade Runner",
+      "Die Hard",
+      "Halloween",
+      "Jurassic Park",
+      "Jaws",
+      "The Sixth Sense",
+      "Full Metal Jacket"
+    ],
+    "Genres": [
+      "Horror",
+      "Mystery",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "154",
+    "Name": "Rashomon",
+    "Release_Date": "1950",
+    "Duration": "1h 28m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.2 (176K)",
+    "Page_Link": "https://www.imdb.com/title/tt0042876/?ref_=chttp_i_154",
+    "Recommendations": [
+      "Yojimbo",
+      "Seven Samurai",
+      "Ran",
+      "Ikiru",
+      "Throne of Blood",
+      "High and Low",
+      "The Hidden Fortress",
+      "Sanjuro",
+      "Harakiri",
+      "Bicycle Thieves",
+      "Kagemusha",
+      "Tokyo Story"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "ID": "155",
+    "Name": "Finding Nemo",
+    "Release_Date": "2003",
+    "Duration": "1h 40m",
+    "Rating_MPA": "G",
+    "Rating": "8.2 (1.1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0266543/?ref_=chttp_i_155",
+    "Recommendations": [
+      "Monsters, Inc.",
+      "Up",
+      "The Incredibles",
+      "Toy Story",
+      "Ratatouille",
+      "Toy Story 3",
+      "Inside Out",
+      "Finding Dory",
+      "WALL·E",
+      "How to Train Your Dragon",
+      "The Lion King",
+      "Coco"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ]
+  },
+  {
+    "ID": "156",
+    "Name": "The Elephant Man",
+    "Release_Date": "1980",
+    "Duration": "2h 4m",
+    "Rating_MPA": "PG",
+    "Rating": "8.2 (252K)",
+    "Page_Link": "https://www.imdb.com/title/tt0080678/?ref_=chttp_i_156",
+    "Recommendations": [
+      "Eraserhead",
+      "Blue Velvet",
+      "Lost Highway",
+      "Chinatown",
+      "Wild at Heart",
+      "Mulholland Drive",
+      "The Straight Story",
+      "Raging Bull",
+      "A Clockwork Orange",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "The Big Lebowski",
+      "Full Metal Jacket"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "157",
+    "Name": "Chinatown",
+    "Release_Date": "1974",
+    "Duration": "2h 10m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (340K)",
+    "Page_Link": "https://www.imdb.com/title/tt0071315/?ref_=chttp_i_157",
+    "Recommendations": [
+      "Raging Bull",
+      "Vertigo",
+      "North by Northwest",
+      "Rear Window",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "The Two Jakes",
+      "Some Like It Hot",
+      "L.A. Confidential",
+      "Fargo",
+      "Citizen Kane",
+      "Apocalypse Now",
+      "There Will Be Blood"
+    ],
+    "Genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "158",
+    "Name": "Howl's Moving Castle",
+    "Release_Date": "2004",
+    "Duration": "1h 59m",
+    "Rating_MPA": "PG",
+    "Rating": "8.2 (425K)",
+    "Page_Link": "https://www.imdb.com/title/tt0347149/?ref_=chttp_i_158",
+    "Recommendations": [
+      "Spirited Away",
+      "My Neighbor Totoro",
+      "Ponyo",
+      "Kiki's Delivery Service",
+      "Castle in the Sky",
+      "The Secret World of Arrietty",
+      "Up",
+      "Ratatouille",
+      "Whisper of the Heart",
+      "Inside Out",
+      "WALL·E",
+      "Coco"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "159",
+    "Name": "Dial M for Murder",
+    "Release_Date": "1954",
+    "Duration": "1h 45m",
+    "Rating_MPA": "PG",
+    "Rating": "8.2 (184K)",
+    "Page_Link": "https://www.imdb.com/title/tt0046912/?ref_=chttp_i_159",
+    "Recommendations": [
+      "North by Northwest",
+      "Rear Window",
+      "Vertigo",
+      "Rope",
+      "Rebecca",
+      "Strangers on a Train",
+      "The Man Who Knew Too Much",
+      "To Catch a Thief",
+      "Double Indemnity",
+      "Psycho",
+      "The Birds",
+      "Witness for the Prosecution"
+    ],
+    "Genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "160",
+    "Name": "Gone with the Wind",
+    "Release_Date": "1939",
+    "Duration": "3h 58m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.2 (327K)",
+    "Page_Link": "https://www.imdb.com/title/tt0031381/?ref_=chttp_i_160",
+    "Recommendations": [
+      "Casablanca",
+      "Ben-Hur",
+      "Some Like It Hot",
+      "Singin' in the Rain",
+      "It Happened One Night",
+      "The Bridge on the River Kwai",
+      "Citizen Kane",
+      "To Kill a Mockingbird",
+      "Scarlett",
+      "Lawrence of Arabia",
+      "On the Waterfront",
+      "All About Eve"
+    ],
+    "Genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ]
+  },
+  {
+    "ID": "161",
+    "Name": "V for Vendetta",
+    "Release_Date": "2005",
+    "Duration": "2h 12m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (1.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0434409/?ref_=chttp_i_161",
+    "Recommendations": [
+      "Kill Bill: Vol. 1",
+      "A Beautiful Mind",
+      "The Truman Show",
+      "Léon: The Professional",
+      "The Sixth Sense",
+      "Shutter Island",
+      "The Matrix",
+      "Mad Max: Fury Road",
+      "Catch Me If You Can",
+      "'V for Vendetta' Unmasked",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "The Intouchables"
+    ],
+    "Genres": [
+      "Action",
+      "Drama",
+      "Sci",
+      "Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "162",
+    "Name": "Raging Bull",
+    "Release_Date": "1980",
+    "Duration": "2h 9m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (370K)",
+    "Page_Link": "https://www.imdb.com/title/tt0081398/?ref_=chttp_i_162",
+    "Recommendations": [
+      "Casino",
+      "Taxi Driver",
+      "Goodfellas",
+      "The King of Comedy",
+      "The Deer Hunter",
+      "Chinatown",
+      "Mean Streets",
+      "Once Upon a Time in America",
+      "Full Metal Jacket",
+      "Cape Fear",
+      "The Bronx Bull",
+      "Scarface"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "ID": "163",
+    "Name": "Spider-Man: No Way Home",
+    "Release_Date": "2021",
+    "Duration": "2h 28m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.2 (833K)",
+    "Page_Link": "https://www.imdb.com/title/tt10872600/?ref_=chttp_i_163",
+    "Recommendations": [
+      "Spider-Man: Far from Home",
+      "Avengers: Endgame",
+      "Spider-Man: Homecoming",
+      "Avengers: Infinity War",
+      "Spider-Man",
+      "Captain America: Civil War",
+      "The Avengers",
+      "Spider-Man 2",
+      "Thor: Ragnarok",
+      "Doctor Strange",
+      "The Amazing Spider-Man",
+      "Spider-Man 3"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "164",
+    "Name": "Lock, Stock and Two Smoking Barrels",
+    "Release_Date": "1998",
+    "Duration": "1h 47m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (603K)",
+    "Page_Link": "https://www.imdb.com/title/tt0120735/?ref_=chttp_i_164",
+    "Recommendations": [
+      "Snatch",
+      "RocknRolla",
+      "Trainspotting",
+      "Lock, Stock...",
+      "The Big Lebowski",
+      "The Gentlemen",
+      "Reservoir Dogs",
+      "L.A. Confidential",
+      "Full Metal Jacket",
+      "Revolver",
+      "Gran Torino",
+      "Three Billboards Outside Ebbing, Missouri"
+    ],
+    "Genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ]
+  },
+  {
+    "ID": "165",
+    "Name": "The Secret in Their Eyes",
+    "Release_Date": "2009",
+    "Duration": "2h 9m",
+    "Rating_MPA": "R",
+    "Rating": "8.2 (217K)",
+    "Page_Link": "https://www.imdb.com/title/tt1305806/?ref_=chttp_i_165",
+    "Recommendations": [
+      "Wild Tales",
+      "Nine Queens",
+      "Amores Perros",
+      "Secret in Their Eyes",
+      "The Lives of Others",
+      "Incendies",
+      "In the Name of the Father",
+      "Memories of Murder",
+      "Million Dollar Baby",
+      "The Hunt",
+      "A Separation",
+      "Capernaum"
+    ],
+    "Genres": [
+      "Drama",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "166",
+    "Name": "Prisoners",
+    "Release_Date": "2013",
+    "Duration": "2h 33m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (772K)",
+    "Page_Link": "https://www.imdb.com/title/tt1392214/?ref_=chttp_i_166",
+    "Recommendations": [
+      "Nightcrawler",
+      "Gone Girl",
+      "Shutter Island",
+      "Zodiac",
+      "No Country for Old Men",
+      "Se7en",
+      "Catch Me If You Can",
+      "Django Unchained",
+      "The Truman Show",
+      "The Departed",
+      "Memento",
+      "Whiplash"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "167",
+    "Name": "Inside Out",
+    "Release_Date": "2015",
+    "Duration": "1h 35m",
+    "Rating_MPA": "PG",
+    "Rating": "8.1 (755K)",
+    "Page_Link": "https://www.imdb.com/title/tt2096673/?ref_=chttp_i_167",
+    "Recommendations": [
+      "Up",
+      "Monsters, Inc.",
+      "Coco",
+      "Ratatouille",
+      "Finding Nemo",
+      "The Incredibles",
+      "WALL·E",
+      "Toy Story",
+      "How to Train Your Dragon",
+      "Toy Story 3",
+      "Soul",
+      "Zootopia"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "168",
+    "Name": "Three Billboards Outside Ebbing, Missouri",
+    "Release_Date": "2017",
+    "Duration": "1h 55m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (537K)",
+    "Page_Link": "https://www.imdb.com/title/tt5027774/?ref_=chttp_i_168",
+    "Recommendations": [
+      "Green Book",
+      "Spotlight",
+      "Fargo",
+      "12 Years a Slave",
+      "In Bruges",
+      "The Grand Budapest Hotel",
+      "1917",
+      "Room",
+      "Gran Torino",
+      "A Beautiful Mind",
+      "The Big Lebowski",
+      "Seven Psychopaths"
+    ],
+    "Genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "169",
+    "Name": "The Bridge on the River Kwai",
+    "Release_Date": "1957",
+    "Duration": "2h 41m",
+    "Rating_MPA": "PG",
+    "Rating": "8.1 (229K)",
+    "Page_Link": "https://www.imdb.com/title/tt0050212/?ref_=chttp_i_169",
+    "Recommendations": [
+      "Ben-Hur",
+      "Lawrence of Arabia",
+      "The Great Escape",
+      "On the Waterfront",
+      "Gone with the Wind",
+      "The Treasure of the Sierra Madre",
+      "The Sting",
+      "Doctor Zhivago",
+      "A Passage to India",
+      "Platoon",
+      "Cool Hand Luke",
+      "To Kill a Mockingbird"
+    ],
+    "Genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "170",
+    "Name": "Trainspotting",
+    "Release_Date": "1996",
+    "Duration": "1h 33m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (710K)",
+    "Page_Link": "https://www.imdb.com/title/tt0117951/?ref_=chttp_i_170",
+    "Recommendations": [
+      "T2 Trainspotting",
+      "A Clockwork Orange",
+      "The Big Lebowski",
+      "Snatch",
+      "Requiem for a Dream",
+      "Full Metal Jacket",
+      "Lock, Stock and Two Smoking Barrels",
+      "Fargo",
+      "Kill Bill: Vol. 1",
+      "American Beauty",
+      "Reservoir Dogs",
+      "Taxi Driver"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "171",
+    "Name": "Fargo",
+    "Release_Date": "1996",
+    "Duration": "1h 38m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (704K)",
+    "Page_Link": "https://www.imdb.com/title/tt0116282/?ref_=chttp_i_171",
+    "Recommendations": [
+      "The Big Lebowski",
+      "No Country for Old Men",
+      "Trainspotting",
+      "Reservoir Dogs",
+      "Fargo",
+      "Gran Torino",
+      "There Will Be Blood",
+      "Full Metal Jacket",
+      "A Clockwork Orange",
+      "Fargo",
+      "Kill Bill: Vol. 1",
+      "American Beauty"
+    ],
+    "Genres": [
+      "Crime",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "172",
+    "Name": "Warrior",
+    "Release_Date": "2011",
+    "Duration": "2h 20m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.1 (488K)",
+    "Page_Link": "https://www.imdb.com/title/tt1291584/?ref_=chttp_i_172",
+    "Recommendations": [
+      "Gran Torino",
+      "Million Dollar Baby",
+      "Rush",
+      "Voin",
+      "V for Vendetta",
+      "Brothers",
+      "Warrior",
+      "12 Years a Slave",
+      "Ford v Ferrari",
+      "Prisoners",
+      "Mad Max: Fury Road",
+      "Catch Me If You Can"
+    ],
+    "Genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "ID": "173",
+    "Name": "Gran Torino",
+    "Release_Date": "2008",
+    "Duration": "1h 56m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (799K)",
+    "Page_Link": "https://www.imdb.com/title/tt1205489/?ref_=chttp_i_173",
+    "Recommendations": [
+      "Million Dollar Baby",
+      "Unforgiven",
+      "Warrior",
+      "Full Metal Jacket",
+      "No Country for Old Men",
+      "Fargo",
+      "12 Years a Slave",
+      "The Big Lebowski",
+      "The Mule",
+      "Trainspotting",
+      "V for Vendetta",
+      "Kill Bill: Vol. 1"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "174",
+    "Name": "Catch Me If You Can",
+    "Release_Date": "2002",
+    "Duration": "2h 21m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.1 (1M)",
+    "Page_Link": "https://www.imdb.com/title/tt0264464/?ref_=chttp_i_174",
+    "Recommendations": [
+      "Shutter Island",
+      "The Wolf of Wall Street",
+      "The Truman Show",
+      "Django Unchained",
+      "Forrest Gump",
+      "Inglourious Basterds",
+      "The Departed",
+      "Fight Club",
+      "Saving Private Ryan",
+      "Se7en",
+      "Joker",
+      "The Green Mile"
+    ],
+    "Genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "175",
+    "Name": "My Neighbor Totoro",
+    "Release_Date": "1988",
+    "Duration": "1h 26m",
+    "Rating_MPA": "G",
+    "Rating": "8.1 (362K)",
+    "Page_Link": "https://www.imdb.com/title/tt0096283/?ref_=chttp_i_175",
+    "Recommendations": [
+      "Howl's Moving Castle",
+      "Spirited Away",
+      "Kiki's Delivery Service",
+      "Ponyo",
+      "Castle in the Sky",
+      "The Secret World of Arrietty",
+      "Whisper of the Heart",
+      "From Up on Poppy Hill",
+      "The Cat Returns",
+      "Monsters, Inc.",
+      "Up",
+      "Inside Out"
+    ],
+    "Genres": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "176",
+    "Name": "Million Dollar Baby",
+    "Release_Date": "2004",
+    "Duration": "2h 12m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.1 (708K)",
+    "Page_Link": "https://www.imdb.com/title/tt0405159/?ref_=chttp_i_176",
+    "Recommendations": [
+      "Gran Torino",
+      "12 Years a Slave",
+      "A Beautiful Mind",
+      "Unforgiven",
+      "Warrior",
+      "The Sixth Sense",
+      "Catch Me If You Can",
+      "V for Vendetta",
+      "Green Book",
+      "Braveheart",
+      "American Beauty",
+      "Good Will Hunting"
+    ],
+    "Genres": [
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "ID": "177",
+    "Name": "Klaus",
+    "Release_Date": "2019",
+    "Duration": "1h 36m",
+    "Rating_MPA": "PG",
+    "Rating": "8.2 (172K)",
+    "Page_Link": "https://www.imdb.com/title/tt4729430/?ref_=chttp_i_177",
+    "Recommendations": [
+      "Inside Out",
+      "Coco",
+      "How to Train Your Dragon",
+      "Monsters, Inc.",
+      "Up",
+      "Ratatouille",
+      "WALL·E",
+      "Finding Nemo",
+      "My Neighbor Totoro",
+      "The Incredibles",
+      "Howl's Moving Castle",
+      "The Iron Giant"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "178",
+    "Name": "Harry Potter and the Deathly Hallows: Part 2",
+    "Release_Date": "2011",
+    "Duration": "2h 10m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.1 (918K)",
+    "Page_Link": "https://www.imdb.com/title/tt1201607/?ref_=chttp_i_178",
+    "Recommendations": [
+      "Harry Potter and the Deathly Hallows: Part 1",
+      "Harry Potter and the Half-Blood Prince",
+      "Harry Potter and the Order of the Phoenix",
+      "Harry Potter and the Goblet of Fire",
+      "Harry Potter and the Prisoner of Azkaban",
+      "Harry Potter and the Chamber of Secrets",
+      "Harry Potter and the Sorcerer's Stone",
+      "Monsters, Inc.",
+      "How to Train Your Dragon",
+      "Finding Nemo",
+      "Fantastic Beasts and Where to Find Them",
+      "Up"
+    ],
+    "Genres": [
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Mystery"
+    ]
+  },
+  {
+    "ID": "179",
+    "Name": "Children of Heaven",
+    "Release_Date": "1997",
+    "Duration": "1h 29m",
+    "Rating_MPA": "PG",
+    "Rating": "8.2 (78K)",
+    "Page_Link": "https://www.imdb.com/title/tt0118849/?ref_=chttp_i_179",
+    "Recommendations": [
+      "The Color of Paradise",
+      "The Kid",
+      "Like Stars on Earth",
+      "My Father and My Son",
+      "The Song of Sparrows",
+      "Klaus",
+      "Where Is the Friend's House?",
+      "Hachi: A Dog's Tale",
+      "Monsters, Inc.",
+      "Inside Out",
+      "The Sound of Music",
+      "How to Train Your Dragon"
+    ],
+    "Genres": [
+      "Drama",
+      "Family",
+      "Sport"
+    ]
+  },
+  {
+    "ID": "180",
+    "Name": "Blade Runner",
+    "Release_Date": "1982",
+    "Duration": "1h 57m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (801K)",
+    "Page_Link": "https://www.imdb.com/title/tt0083658/?ref_=chttp_i_180",
+    "Recommendations": [
+      "Blade Runner 2049",
+      "2001: A Space Odyssey",
+      "Alien",
+      "Mad Max: Fury Road",
+      "The Terminator",
+      "Taxi Driver",
+      "A Clockwork Orange",
+      "Apocalypse Now",
+      "2036: Nexus Dawn",
+      "No Country for Old Men",
+      "Full Metal Jacket",
+      "Aliens"
+    ],
+    "Genres": [
+      "Action",
+      "Drama",
+      "Sci",
+      "Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "181",
+    "Name": "12 Years a Slave",
+    "Release_Date": "2013",
+    "Duration": "2h 14m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (726K)",
+    "Page_Link": "https://www.imdb.com/title/tt2024544/?ref_=chttp_i_181",
+    "Recommendations": [
+      "A Beautiful Mind",
+      "Million Dollar Baby",
+      "Green Book",
+      "Catch Me If You Can",
+      "Gone Girl",
+      "Hacksaw Ridge",
+      "Gran Torino",
+      "The Intouchables",
+      "Mad Max: Fury Road",
+      "1917",
+      "Room",
+      "V for Vendetta"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "ID": "182",
+    "Name": "Before Sunrise",
+    "Release_Date": "1995",
+    "Duration": "1h 41m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (328K)",
+    "Page_Link": "https://www.imdb.com/title/tt0112471/?ref_=chttp_i_182",
+    "Recommendations": [
+      "Before Sunset",
+      "Before Midnight",
+      "Dead Poets Society",
+      "Eternal Sunshine of the Spotless Mind",
+      "Amélie",
+      "Into the Wild",
+      "A Beautiful Mind",
+      "Boyhood",
+      "Gone Girl",
+      "Catch Me If You Can",
+      "Before Sunrise",
+      "The Grand Budapest Hotel"
+    ],
+    "Genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "183",
+    "Name": "The Grand Budapest Hotel",
+    "Release_Date": "2014",
+    "Duration": "1h 39m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (859K)",
+    "Page_Link": "https://www.imdb.com/title/tt2278388/?ref_=chttp_i_183",
+    "Recommendations": [
+      "Gone Girl",
+      "The Truman Show",
+      "Isle of Dogs",
+      "The French Dispatch",
+      "The Royal Tenenbaums",
+      "Catch Me If You Can",
+      "Inglourious Basterds",
+      "Shutter Island",
+      "The Darjeeling Limited",
+      "Dead Poets Society",
+      "No Country for Old Men",
+      "Whiplash"
+    ],
+    "Genres": [
+      "Adventure",
+      "Comedy",
+      "Crime"
+    ]
+  },
+  {
+    "ID": "184",
+    "Name": "The Gold Rush",
+    "Release_Date": "1925",
+    "Duration": "1h 35m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.1 (116K)",
+    "Page_Link": "https://www.imdb.com/title/tt0015864/?ref_=chttp_i_184",
+    "Recommendations": [
+      "City Lights",
+      "Modern Times",
+      "The General",
+      "The Great Dictator",
+      "Sherlock Jr.",
+      "Metropolis",
+      "The Passion of Joan of Arc",
+      "Limelight",
+      "It Happened One Night",
+      "M",
+      "Bicycle Thieves",
+      "Mr. Smith Goes to Washington"
+    ],
+    "Genres": [
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Western"
+    ]
+  },
+  {
+    "ID": "185",
+    "Name": "Ben-Hur",
+    "Release_Date": "1959",
+    "Duration": "3h 32m",
+    "Rating_MPA": "G",
+    "Rating": "8.1 (248K)",
+    "Page_Link": "https://www.imdb.com/title/tt0052618/?ref_=chttp_i_185",
+    "Recommendations": [
+      "The Bridge on the River Kwai",
+      "Gone with the Wind",
+      "Lawrence of Arabia",
+      "Ben-Hur",
+      "The Great Escape",
+      "On the Waterfront",
+      "The Sting",
+      "Platoon",
+      "Some Like It Hot",
+      "To Kill a Mockingbird",
+      "North by Northwest",
+      "Rocky"
+    ],
+    "Genres": [
+      "Adventure",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "186",
+    "Name": "Gone Girl",
+    "Release_Date": "2014",
+    "Duration": "2h 29m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (1M)",
+    "Page_Link": "https://www.imdb.com/title/tt2267998/?ref_=chttp_i_186",
+    "Recommendations": [
+      "Prisoners",
+      "Shutter Island",
+      "Catch Me If You Can",
+      "Se7en",
+      "Zodiac",
+      "12 Years a Slave",
+      "The Truman Show",
+      "No Country for Old Men",
+      "Fight Club",
+      "The Social Network",
+      "Django Unchained",
+      "A Beautiful Mind"
+    ],
+    "Genres": [
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "187",
+    "Name": "Barry Lyndon",
+    "Release_Date": "1975",
+    "Duration": "3h 5m",
+    "Rating_MPA": "PG",
+    "Rating": "8.1 (177K)",
+    "Page_Link": "https://www.imdb.com/title/tt0072684/?ref_=chttp_i_187",
+    "Recommendations": [
+      "Paths of Glory",
+      "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+      "Lolita",
+      "Full Metal Jacket",
+      "2001: A Space Odyssey",
+      "A Clockwork Orange",
+      "Eyes Wide Shut",
+      "Spartacus",
+      "The Killing",
+      "Raging Bull",
+      "The Shining",
+      "Vertigo"
+    ],
+    "Genres": [
+      "Adventure",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "188",
+    "Name": "On the Waterfront",
+    "Release_Date": "1954",
+    "Duration": "1h 48m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.1 (161K)",
+    "Page_Link": "https://www.imdb.com/title/tt0047296/?ref_=chttp_i_188",
+    "Recommendations": [
+      "A Streetcar Named Desire",
+      "The Treasure of the Sierra Madre",
+      "All About Eve",
+      "The Bridge on the River Kwai",
+      "The Third Man",
+      "Mr. Smith Goes to Washington",
+      "Dial M for Murder",
+      "Ben-Hur",
+      "The Grapes of Wrath",
+      "Double Indemnity",
+      "Cool Hand Luke",
+      "Chinatown"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "189",
+    "Name": "Hacksaw Ridge",
+    "Release_Date": "2016",
+    "Duration": "2h 19m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (568K)",
+    "Page_Link": "https://www.imdb.com/title/tt2119532/?ref_=chttp_i_189",
+    "Recommendations": [
+      "1917",
+      "Saving Private Ryan",
+      "Fury",
+      "Catch Me If You Can",
+      "Mad Max: Fury Road",
+      "Ford v Ferrari",
+      "Joker",
+      "Logan",
+      "12 Years a Slave",
+      "Shutter Island",
+      "Inglourious Basterds",
+      "Dunkirk"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "War"
+    ]
+  },
+  {
+    "ID": "190",
+    "Name": "In the Name of the Father",
+    "Release_Date": "1993",
+    "Duration": "2h 13m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (183K)",
+    "Page_Link": "https://www.imdb.com/title/tt0107207/?ref_=chttp_i_190",
+    "Recommendations": [
+      "My Left Foot",
+      "The Deer Hunter",
+      "Hotel Rwanda",
+      "Million Dollar Baby",
+      "Raging Bull",
+      "There Will Be Blood",
+      "Unforgiven",
+      "Platoon",
+      "On the Waterfront",
+      "The Secret in Their Eyes",
+      "The Elephant Man",
+      "Barry Lyndon"
+    ],
+    "Genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "191",
+    "Name": "Memories of Murder",
+    "Release_Date": "2003",
+    "Duration": "2h 12m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.1 (204K)",
+    "Page_Link": "https://www.imdb.com/title/tt0353969/?ref_=chttp_i_191",
+    "Recommendations": [
+      "Oldboy",
+      "Mother",
+      "The Handmaiden",
+      "I Saw the Devil",
+      "The Chaser",
+      "Parasite",
+      "The Host",
+      "The Hunt",
+      "The Wailing",
+      "Incendies",
+      "The Secret in Their Eyes",
+      "Burning"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "192",
+    "Name": "The General",
+    "Release_Date": "1926",
+    "Duration": "1h 18m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.1 (96K)",
+    "Page_Link": "https://www.imdb.com/title/tt0017925/?ref_=chttp_i_192",
+    "Recommendations": [
+      "Sherlock Jr.",
+      "The Gold Rush",
+      "The Passion of Joan of Arc",
+      "City Lights",
+      "Metropolis",
+      "Seven Chances",
+      "It Happened One Night",
+      "The Navigator",
+      "Mr. Smith Goes to Washington",
+      "Modern Times",
+      "The Third Man",
+      "Bicycle Thieves"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "193",
+    "Name": "The Deer Hunter",
+    "Release_Date": "1978",
+    "Duration": "3h 3m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (353K)",
+    "Page_Link": "https://www.imdb.com/title/tt0077416/?ref_=chttp_i_193",
+    "Recommendations": [
+      "Platoon",
+      "Raging Bull",
+      "Apocalypse Now",
+      "Full Metal Jacket",
+      "Taxi Driver",
+      "Heaven's Gate",
+      "Once Upon a Time in America",
+      "Casino",
+      "Year of the Dragon",
+      "Chinatown",
+      "In the Name of the Father",
+      "Fargo"
+    ],
+    "Genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "194",
+    "Name": "Wild Strawberries",
+    "Release_Date": "1957",
+    "Duration": "1h 31m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.1 (112K)",
+    "Page_Link": "https://www.imdb.com/title/tt0050986/?ref_=chttp_i_194",
+    "Recommendations": [
+      "The Seventh Seal",
+      "Persona",
+      "Cries & Whispers",
+      "Fanny and Alexander",
+      "The 400 Blows",
+      "Through a Glass Darkly",
+      "Autumn Sonata",
+      "The Virgin Spring",
+      "Winter Light",
+      "Tokyo Story",
+      "The Silence",
+      "The Passion of Joan of Arc"
+    ],
+    "Genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "195",
+    "Name": "The Wages of Fear",
+    "Release_Date": "1953",
+    "Duration": "2h 11m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.2 (64K)",
+    "Page_Link": "https://www.imdb.com/title/tt0046268/?ref_=chttp_i_195",
+    "Recommendations": [
+      "The Battle of Algiers",
+      "The Third Man",
+      "To Be or Not to Be",
+      "The Treasure of the Sierra Madre",
+      "Diabolique",
+      "The Passion of Joan of Arc",
+      "Tokyo Story",
+      "Mr. Smith Goes to Washington",
+      "Sorcerer",
+      "The Grapes of Wrath",
+      "Wild Strawberries",
+      "The General"
+    ],
+    "Genres": [
+      "Adventure",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "196",
+    "Name": "The Third Man",
+    "Release_Date": "1949",
+    "Duration": "1h 33m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.1 (178K)",
+    "Page_Link": "https://www.imdb.com/title/tt0041959/?ref_=chttp_i_196",
+    "Recommendations": [
+      "Double Indemnity",
+      "The Treasure of the Sierra Madre",
+      "On the Waterfront",
+      "Dial M for Murder",
+      "The Wages of Fear",
+      "Sunset Blvd.",
+      "Touch of Evil",
+      "Rebecca",
+      "The General",
+      "All About Eve",
+      "Mr. Smith Goes to Washington",
+      "Citizen Kane"
+    ],
+    "Genres": [
+      "Film",
+      "Noir",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "197",
+    "Name": "Sherlock Jr.",
+    "Release_Date": "1924",
+    "Duration": "45m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.2 (54K)",
+    "Page_Link": "https://www.imdb.com/title/tt0015324/?ref_=chttp_i_197",
+    "Recommendations": [
+      "The General",
+      "The Gold Rush",
+      "The Navigator",
+      "The Passion of Joan of Arc",
+      "Seven Chances",
+      "Our Hospitality",
+      "City Lights",
+      "Battling Butler",
+      "To Be or Not to Be",
+      "Wild Strawberries",
+      "Modern Times",
+      "Metropolis"
+    ],
+    "Genres": [
+      "Action",
+      "Comedy",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "198",
+    "Name": "Wild Tales",
+    "Release_Date": "2014",
+    "Duration": "2h 2m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (210K)",
+    "Page_Link": "https://www.imdb.com/title/tt3011894/?ref_=chttp_i_198",
+    "Recommendations": [
+      "The Secret in Their Eyes",
+      "Amores Perros",
+      "Nine Queens",
+      "Mary and Max",
+      "Watchlist",
+      "Capernaum",
+      "Room",
+      "A Separation",
+      "Incendies",
+      "The Lives of Others",
+      "Three Billboards Outside Ebbing, Missouri",
+      "Memories of Murder"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "199",
+    "Name": "Dead Poets Society",
+    "Release_Date": "1989",
+    "Duration": "2h 8m",
+    "Rating_MPA": "PG",
+    "Rating": "8.1 (523K)",
+    "Page_Link": "https://www.imdb.com/title/tt0097165/?ref_=chttp_i_199",
+    "Recommendations": [
+      "Good Will Hunting",
+      "The Truman Show",
+      "Into the Wild",
+      "A Beautiful Mind",
+      "Groundhog Day",
+      "Catch Me If You Can",
+      "The Sixth Sense",
+      "Eternal Sunshine of the Spotless Mind",
+      "The Grand Budapest Hotel",
+      "V for Vendetta",
+      "Dead Poets Society",
+      "Jaws"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "200",
+    "Name": "Mad Max: Fury Road",
+    "Release_Date": "2015",
+    "Duration": "2h",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (1M)",
+    "Page_Link": "https://www.imdb.com/title/tt1392190/?ref_=chttp_i_200",
+    "Recommendations": [
+      "Logan",
+      "1917",
+      "Shutter Island",
+      "Catch Me If You Can",
+      "Django Unchained",
+      "The Dark Knight Rises",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Batman Begins",
+      "Mad Max",
+      "Inglourious Basterds",
+      "Joker",
+      "Avengers: Endgame"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Sci",
+      "Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "201",
+    "Name": "Mr. Smith Goes to Washington",
+    "Release_Date": "1939",
+    "Duration": "2h 9m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.1 (119K)",
+    "Page_Link": "https://www.imdb.com/title/tt0031679/?ref_=chttp_i_201",
+    "Recommendations": [
+      "It Happened One Night",
+      "The Grapes of Wrath",
+      "To Be or Not to Be",
+      "The Treasure of the Sierra Madre",
+      "The Best Years of Our Lives",
+      "Rebecca",
+      "You Can't Take It with You",
+      "Double Indemnity",
+      "On the Waterfront",
+      "All About Eve",
+      "The General",
+      "The Third Man"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "202",
+    "Name": "Monsters, Inc.",
+    "Release_Date": "2001",
+    "Duration": "1h 32m",
+    "Rating_MPA": "G",
+    "Rating": "8.1 (950K)",
+    "Page_Link": "https://www.imdb.com/title/tt0198781/?ref_=chttp_i_202",
+    "Recommendations": [
+      "Finding Nemo",
+      "The Incredibles",
+      "Up",
+      "Ratatouille",
+      "Toy Story",
+      "Monsters University",
+      "Toy Story 3",
+      "Inside Out",
+      "How to Train Your Dragon",
+      "WALL·E",
+      "Coco",
+      "Aladdin"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "203",
+    "Name": "How to Train Your Dragon",
+    "Release_Date": "2010",
+    "Duration": "1h 38m",
+    "Rating_MPA": "PG",
+    "Rating": "8.1 (776K)",
+    "Page_Link": "https://www.imdb.com/title/tt0892769/?ref_=chttp_i_203",
+    "Recommendations": [
+      "How to Train Your Dragon 2",
+      "Monsters, Inc.",
+      "How to Train Your Dragon: The Hidden World",
+      "Finding Nemo",
+      "Ratatouille",
+      "The Incredibles",
+      "Up",
+      "Inside Out",
+      "Toy Story",
+      "WALL·E",
+      "Toy Story 3",
+      "Harry Potter and the Deathly Hallows: Part 2"
+    ],
+    "Genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "204",
+    "Name": "Jaws",
+    "Release_Date": "1975",
+    "Duration": "2h 4m",
+    "Rating_MPA": "PG",
+    "Rating": "8.1 (641K)",
+    "Page_Link": "https://www.imdb.com/title/tt0073195/?ref_=chttp_i_204",
+    "Recommendations": [
+      "Jurassic Park",
+      "The Terminator",
+      "Rocky",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Back to the Future",
+      "Jaws 2",
+      "Die Hard",
+      "Alien",
+      "Indiana Jones and the Last Crusade",
+      "Raiders of the Lost Ark",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "Jaws 3-D"
+    ],
+    "Genres": [
+      "Adventure",
+      "Mystery",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "205",
+    "Name": "Mary and Max",
+    "Release_Date": "2009",
+    "Duration": "1h 32m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.1 (183K)",
+    "Page_Link": "https://www.imdb.com/title/tt0978762/?ref_=chttp_i_205",
+    "Recommendations": [
+      "Hotel Rwanda",
+      "Room",
+      "Wild Tales",
+      "A Separation",
+      "Amélie",
+      "The Gold Rush",
+      "Modern Times",
+      "Sherlock Jr.",
+      "The Seventh Seal",
+      "Before Sunset",
+      "Capernaum",
+      "City Lights"
+    ],
+    "Genres": [
+      "Animation",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "206",
+    "Name": "The Seventh Seal",
+    "Release_Date": "1957",
+    "Duration": "1h 36m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.1 (193K)",
+    "Page_Link": "https://www.imdb.com/title/tt0050976/?ref_=chttp_i_206",
+    "Recommendations": [
+      "Wild Strawberries",
+      "Persona",
+      "The 400 Blows",
+      "Cries & Whispers",
+      "Rashomon",
+      "Fanny and Alexander",
+      "Bicycle Thieves",
+      "Citizen Kane",
+      "The Virgin Spring",
+      "The Seventh Seal",
+      "Paths of Glory",
+      "Tokyo Story"
+    ],
+    "Genres": [
+      "Drama",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "207",
+    "Name": "Room",
+    "Release_Date": "2015",
+    "Duration": "1h 58m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (439K)",
+    "Page_Link": "https://www.imdb.com/title/tt3170832/?ref_=chttp_i_207",
+    "Recommendations": [
+      "Spotlight",
+      "12 Years a Slave",
+      "Gone Girl",
+      "Three Billboards Outside Ebbing, Missouri",
+      "Into the Wild",
+      "The Help",
+      "Green Book",
+      "Hotel Rwanda",
+      "Million Dollar Baby",
+      "Mary and Max",
+      "A Beautiful Mind",
+      "Hacksaw Ridge"
+    ],
+    "Genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "208",
+    "Name": "Ford v Ferrari",
+    "Release_Date": "2019",
+    "Duration": "2h 32m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.1 (438K)",
+    "Page_Link": "https://www.imdb.com/title/tt1950186/?ref_=chttp_i_208",
+    "Recommendations": [
+      "Rush",
+      "1917",
+      "Logan",
+      "Green Book",
+      "Catch Me If You Can",
+      "Hacksaw Ridge",
+      "The Dark Knight Rises",
+      "Ford v Ferrari - What really happened",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "The Wolf of Wall Street",
+      "Mad Max: Fury Road",
+      "Batman Begins"
+    ],
+    "Genres": [
+      "Action",
+      "Biography",
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "ID": "209",
+    "Name": "The Big Lebowski",
+    "Release_Date": "1998",
+    "Duration": "1h 57m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (839K)",
+    "Page_Link": "https://www.imdb.com/title/tt0118715/?ref_=chttp_i_209",
+    "Recommendations": [
+      "Fargo",
+      "No Country for Old Men",
+      "Trainspotting",
+      "Snatch",
+      "Reservoir Dogs",
+      "Full Metal Jacket",
+      "The Big Lebowski 2",
+      "A Clockwork Orange",
+      "Lock, Stock and Two Smoking Barrels",
+      "Gran Torino",
+      "Groundhog Day",
+      "Kill Bill: Vol. 1"
+    ],
+    "Genres": [
+      "Comedy",
+      "Crime"
+    ]
+  },
+  {
+    "ID": "210",
+    "Name": "Tokyo Story",
+    "Release_Date": "1953",
+    "Duration": "2h 16m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.1 (66K)",
+    "Page_Link": "https://www.imdb.com/title/tt0046438/?ref_=chttp_i_210",
+    "Recommendations": [
+      "The Passion of Joan of Arc",
+      "Rashomon",
+      "Ikiru",
+      "Late Spring",
+      "The 400 Blows",
+      "Wild Strawberries",
+      "Yojimbo",
+      "The Wages of Fear",
+      "Bicycle Thieves",
+      "The Battle of Algiers",
+      "Pather Panchali",
+      "The Seventh Seal"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "211",
+    "Name": "Ratatouille",
+    "Release_Date": "2007",
+    "Duration": "1h 51m",
+    "Rating_MPA": "G",
+    "Rating": "8.1 (789K)",
+    "Page_Link": "https://www.imdb.com/title/tt0382932/?ref_=chttp_i_211",
+    "Recommendations": [
+      "Monsters, Inc.",
+      "Up",
+      "The Incredibles",
+      "Finding Nemo",
+      "WALL·E",
+      "Inside Out",
+      "Toy Story",
+      "How to Train Your Dragon",
+      "Toy Story 3",
+      "Coco",
+      "The Lion King",
+      "Aladdin"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "212",
+    "Name": "Rocky",
+    "Release_Date": "1976",
+    "Duration": "2h",
+    "Rating_MPA": "PG",
+    "Rating": "8.1 (610K)",
+    "Page_Link": "https://www.imdb.com/title/tt0075148/?ref_=chttp_i_212",
+    "Recommendations": [
+      "Rocky II",
+      "Rocky III",
+      "Rocky IV",
+      "Rocky Balboa",
+      "Rocky V",
+      "Creed",
+      "Jaws",
+      "The Terminator",
+      "Die Hard",
+      "Creed II",
+      "Jurassic Park",
+      "First Blood"
+    ],
+    "Genres": [
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "ID": "213",
+    "Name": "Hotel Rwanda",
+    "Release_Date": "2004",
+    "Duration": "2h 1m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.1 (366K)",
+    "Page_Link": "https://www.imdb.com/title/tt0395169/?ref_=chttp_i_213",
+    "Recommendations": [
+      "Million Dollar Baby",
+      "Into the Wild",
+      "Room",
+      "12 Years a Slave",
+      "Gran Torino",
+      "Mary and Max",
+      "Spotlight",
+      "In the Name of the Father",
+      "Downfall",
+      "Platoon",
+      "Dead Poets Society",
+      "A Beautiful Mind"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "History",
+      "War"
+    ]
+  },
+  {
+    "ID": "214",
+    "Name": "The Passion of Joan of Arc",
+    "Release_Date": "1928",
+    "Duration": "1h 54m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.1 (59K)",
+    "Page_Link": "https://www.imdb.com/title/tt0019254/?ref_=chttp_i_214",
+    "Recommendations": [
+      "Sherlock Jr.",
+      "Tokyo Story",
+      "The General",
+      "To Be or Not to Be",
+      "The Gold Rush",
+      "Wild Strawberries",
+      "The 400 Blows",
+      "The Battle of Algiers",
+      "The Wages of Fear",
+      "Persona",
+      "Metropolis",
+      "Mr. Smith Goes to Washington"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "ID": "215",
+    "Name": "Logan",
+    "Release_Date": "2017",
+    "Duration": "2h 17m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (805K)",
+    "Page_Link": "https://www.imdb.com/title/tt3315342/?ref_=chttp_i_215",
+    "Recommendations": [
+      "Deadpool",
+      "Avengers: Infinity War",
+      "Avengers: Endgame",
+      "The Wolverine",
+      "Mad Max: Fury Road",
+      "X-Men: Days of Future Past",
+      "Deadpool 2",
+      "Spider-Man: No Way Home",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "The Dark Knight Rises",
+      "Batman Begins",
+      "Joker"
+    ],
+    "Genres": [
+      "Action",
+      "Drama",
+      "Sci",
+      "Fi",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "216",
+    "Name": "Spotlight",
+    "Release_Date": "2015",
+    "Duration": "2h 9m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (490K)",
+    "Page_Link": "https://www.imdb.com/title/tt1895587/?ref_=chttp_i_216",
+    "Recommendations": [
+      "Room",
+      "Three Billboards Outside Ebbing, Missouri",
+      "12 Years a Slave",
+      "Green Book",
+      "Into the Wild",
+      "Rush",
+      "Hotel Rwanda",
+      "Million Dollar Baby",
+      "A Beautiful Mind",
+      "Gran Torino",
+      "Gone Girl",
+      "Ford v Ferrari"
+    ],
+    "Genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "217",
+    "Name": "Platoon",
+    "Release_Date": "1986",
+    "Duration": "2h",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (429K)",
+    "Page_Link": "https://www.imdb.com/title/tt0091763/?ref_=chttp_i_217",
+    "Recommendations": [
+      "Full Metal Jacket",
+      "Apocalypse Now",
+      "The Deer Hunter",
+      "Born on the Fourth of July",
+      "Rocky",
+      "Heaven & Earth",
+      "Gran Torino",
+      "Dances with Wolves",
+      "Unforgiven",
+      "The Terminator",
+      "Ben-Hur",
+      "Raging Bull"
+    ],
+    "Genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "218",
+    "Name": "The Terminator",
+    "Release_Date": "1984",
+    "Duration": "1h 47m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (901K)",
+    "Page_Link": "https://www.imdb.com/title/tt0088247/?ref_=chttp_i_218",
+    "Recommendations": [
+      "Terminator 2: Judgment Day",
+      "Terminator 3: Rise of the Machines",
+      "Terminator Salvation",
+      "Die Hard",
+      "Aliens",
+      "Alien",
+      "Terminator Genisys",
+      "Jurassic Park",
+      "Terminator: Dark Fate",
+      "Back to the Future",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Predator"
+    ],
+    "Genres": [
+      "Action",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "219",
+    "Name": "Before Sunset",
+    "Release_Date": "2004",
+    "Duration": "1h 20m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (280K)",
+    "Page_Link": "https://www.imdb.com/title/tt0381681/?ref_=chttp_i_219",
+    "Recommendations": [
+      "Before Sunrise",
+      "Before Midnight",
+      "Into the Wild",
+      "Dead Poets Society",
+      "Boyhood",
+      "Amélie",
+      "Eternal Sunshine of the Spotless Mind",
+      "Room",
+      "Hotel Rwanda",
+      "A Beautiful Mind",
+      "Spotlight",
+      "Before Sunset"
+    ],
+    "Genres": [
+      "Drama",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "220",
+    "Name": "Jai Bhim",
+    "Release_Date": "2021",
+    "Duration": "2h 44m",
+    "Rating_MPA": "TV-MA",
+    "Rating": "8.8 (211K)",
+    "Page_Link": "https://www.imdb.com/title/tt15097216/?ref_=chttp_i_220",
+    "Recommendations": [
+      "Soorarai Pottru",
+      "Vikram",
+      "Kaithi",
+      "Asuran",
+      "Dangal",
+      "K.G.F: Chapter 2",
+      "Raatchasan",
+      "Sita Ramam",
+      "Kantara",
+      "Vikram Vedha",
+      "K.G.F: Chapter 1",
+      "96"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ]
+  },
+  {
+    "ID": "221",
+    "Name": "Rush",
+    "Release_Date": "2013",
+    "Duration": "2h 3m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (500K)",
+    "Page_Link": "https://www.imdb.com/title/tt1979320/?ref_=chttp_i_221",
+    "Recommendations": [
+      "Ford v Ferrari",
+      "Warrior",
+      "Into the Wild",
+      "Logan",
+      "12 Years a Slave",
+      "Spotlight",
+      "Hacksaw Ridge",
+      "1917",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "Million Dollar Baby",
+      "Catch Me If You Can",
+      "Gran Torino"
+    ],
+    "Genres": [
+      "Action",
+      "Biography",
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "ID": "222",
+    "Name": "Network",
+    "Release_Date": "1976",
+    "Duration": "2h 1m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (166K)",
+    "Page_Link": "https://www.imdb.com/title/tt0074958/?ref_=chttp_i_222",
+    "Recommendations": [
+      "Chinatown",
+      "Cool Hand Luke",
+      "On the Waterfront",
+      "The Grapes of Wrath",
+      "The Battle of Algiers",
+      "The Third Man",
+      "Sunset Blvd.",
+      "Mr. Smith Goes to Washington",
+      "Dog Day Afternoon",
+      "The Bridge on the River Kwai",
+      "The Treasure of the Sierra Madre",
+      "The Sting"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "223",
+    "Name": "Stand by Me",
+    "Release_Date": "1986",
+    "Duration": "1h 29m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (427K)",
+    "Page_Link": "https://www.imdb.com/title/tt0092005/?ref_=chttp_i_223",
+    "Recommendations": [
+      "Groundhog Day",
+      "Platoon",
+      "Jaws",
+      "Dead Poets Society",
+      "Into the Wild",
+      "Rocky",
+      "Hotel Rwanda",
+      "Monty Python and the Holy Grail",
+      "To Kill a Mockingbird",
+      "Stand by Me: Deleted and Alternate Scenes",
+      "Back to the Future",
+      "The Big Lebowski"
+    ],
+    "Genres": [
+      "Adventure",
+      "Comedy",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "224",
+    "Name": "The Best Years of Our Lives",
+    "Release_Date": "1946",
+    "Duration": "2h 50m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.1 (68K)",
+    "Page_Link": "https://www.imdb.com/title/tt0036868/?ref_=chttp_i_224",
+    "Recommendations": [
+      "The Grapes of Wrath",
+      "To Be or Not to Be",
+      "It Happened One Night",
+      "Mr. Smith Goes to Washington",
+      "The Battle of Algiers",
+      "Rebecca",
+      "All About Eve",
+      "The Treasure of the Sierra Madre",
+      "The Passion of Joan of Arc",
+      "Ben-Hur",
+      "The Wages of Fear",
+      "On the Waterfront"
+    ],
+    "Genres": [
+      "Drama",
+      "Romance",
+      "War"
+    ]
+  },
+  {
+    "ID": "225",
+    "Name": "La haine",
+    "Release_Date": "1995",
+    "Duration": "1h 38m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.1 (188K)",
+    "Page_Link": "https://www.imdb.com/title/tt0113247/?ref_=chttp_i_225",
+    "Recommendations": [
+      "Trainspotting",
+      "Persona",
+      "Taxi Driver",
+      "Memories of Murder",
+      "City of God",
+      "Raging Bull",
+      "A Clockwork Orange",
+      "Amores Perros",
+      "Amélie",
+      "The Seventh Seal",
+      "Watchlist",
+      "Scarface"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "226",
+    "Name": "The Wizard of Oz",
+    "Release_Date": "1939",
+    "Duration": "1h 42m",
+    "Rating_MPA": "G",
+    "Rating": "8.1 (417K)",
+    "Page_Link": "https://www.imdb.com/title/tt0032138/?ref_=chttp_i_226",
+    "Recommendations": [
+      "The Sound of Music",
+      "Aladdin",
+      "The Incredibles",
+      "Finding Nemo",
+      "Monsters, Inc.",
+      "Toy Story",
+      "Ratatouille",
+      "Toy Story 3",
+      "Up",
+      "How to Train Your Dragon",
+      "The Wizard of Oz",
+      "The Lion King"
+    ],
+    "Genres": [
+      "Adventure",
+      "Family",
+      "Fantasy",
+      "Musical"
+    ]
+  },
+  {
+    "ID": "227",
+    "Name": "The Exorcist",
+    "Release_Date": "1973",
+    "Duration": "2h 2m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (433K)",
+    "Page_Link": "https://www.imdb.com/title/tt0070047/?ref_=chttp_i_227",
+    "Recommendations": [
+      "Jaws",
+      "Alien",
+      "The Conjuring",
+      "A Nightmare on Elm Street",
+      "The Shining",
+      "The Exorcist III",
+      "Halloween",
+      "The Silence of the Lambs",
+      "Psycho",
+      "Rosemary's Baby",
+      "Exorcist II: The Heretic",
+      "The Texas Chain Saw Massacre"
+    ],
+    "Genres": [
+      "Horror"
+    ]
+  },
+  {
+    "ID": "228",
+    "Name": "Into the Wild",
+    "Release_Date": "2007",
+    "Duration": "2h 28m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (644K)",
+    "Page_Link": "https://www.imdb.com/title/tt0758758/?ref_=chttp_i_228",
+    "Recommendations": [
+      "Dead Poets Society",
+      "12 Years a Slave",
+      "A Beautiful Mind",
+      "Hotel Rwanda",
+      "Room",
+      "Rush",
+      "Gran Torino",
+      "Before Sunset",
+      "Catch Me If You Can",
+      "Green Book",
+      "Eternal Sunshine of the Spotless Mind",
+      "The Intouchables"
+    ],
+    "Genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "229",
+    "Name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "Release_Date": "2003",
+    "Duration": "2h 23m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.1 (1.2M)",
+    "Page_Link": "https://www.imdb.com/title/tt0325980/?ref_=chttp_i_229",
+    "Recommendations": [
+      "Pirates of the Caribbean: Dead Man's Chest",
+      "Pirates of the Caribbean: At World's End",
+      "Pirates of the Caribbean: On Stranger Tides",
+      "Pirates of the Caribbean: Dead Men Tell No Tales",
+      "Jurassic Park",
+      "Logan",
+      "Avengers: Endgame",
+      "Avengers: Infinity War",
+      "Star Wars: Episode VI - Return of the Jedi",
+      "Pirates of the Caribbean: Tales of the Code: Wedlocked",
+      "The Lord of the Rings: The Two Towers",
+      "Catch Me If You Can"
+    ],
+    "Genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  },
+  {
+    "ID": "230",
+    "Name": "The Incredibles",
+    "Release_Date": "2004",
+    "Duration": "1h 55m",
+    "Rating_MPA": "PG",
+    "Rating": "8.0 (780K)",
+    "Page_Link": "https://www.imdb.com/title/tt0317705/?ref_=chttp_i_230",
+    "Recommendations": [
+      "Monsters, Inc.",
+      "Finding Nemo",
+      "Ratatouille",
+      "Incredibles 2",
+      "Up",
+      "Toy Story",
+      "Toy Story 3",
+      "How to Train Your Dragon",
+      "Inside Out",
+      "Aladdin",
+      "WALL·E",
+      "Coco"
+    ],
+    "Genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Family"
+    ]
+  },
+  {
+    "ID": "231",
+    "Name": "To Be or Not to Be",
+    "Release_Date": "1942",
+    "Duration": "1h 39m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.2 (41K)",
+    "Page_Link": "https://www.imdb.com/title/tt0035446/?ref_=chttp_i_231",
+    "Recommendations": [
+      "The Best Years of Our Lives",
+      "It Happened One Night",
+      "The Grapes of Wrath",
+      "Mr. Smith Goes to Washington",
+      "The Battle of Algiers",
+      "The Passion of Joan of Arc",
+      "Rebecca",
+      "The Wages of Fear",
+      "Pather Panchali",
+      "Sherlock Jr.",
+      "The General",
+      "To Be or Not to Be"
+    ],
+    "Genres": [
+      "Comedy",
+      "Romance",
+      "War"
+    ]
+  },
+  {
+    "ID": "232",
+    "Name": "Hachi: A Dog's Tale",
+    "Release_Date": "2009",
+    "Duration": "1h 33m",
+    "Rating_MPA": "G",
+    "Rating": "8.1 (301K)",
+    "Page_Link": "https://www.imdb.com/title/tt1028532/?ref_=chttp_i_232",
+    "Recommendations": [
+      "Finding Nemo",
+      "Up",
+      "Monsters, Inc.",
+      "How to Train Your Dragon",
+      "Ratatouille",
+      "The Incredibles",
+      "WALL·E",
+      "Harry Potter and the Deathly Hallows: Part 2",
+      "Toy Story",
+      "Inside Out",
+      "Toy Story 3",
+      "The Lion King"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "Family"
+    ]
+  },
+  {
+    "ID": "233",
+    "Name": "The Handmaiden",
+    "Release_Date": "2016",
+    "Duration": "2h 25m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.1 (163K)",
+    "Page_Link": "https://www.imdb.com/title/tt4016934/?ref_=chttp_i_233",
+    "Recommendations": [
+      "Memories of Murder",
+      "Oldboy",
+      "Decision to Leave",
+      "Lady Vengeance",
+      "Sympathy for Mr. Vengeance",
+      "Burning",
+      "Thirst",
+      "Mother",
+      "Parasite",
+      "Joint Security Area",
+      "I Saw the Devil",
+      "The Chaser"
+    ],
+    "Genres": [
+      "Drama",
+      "Romance",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "234",
+    "Name": "Groundhog Day",
+    "Release_Date": "1993",
+    "Duration": "1h 41m",
+    "Rating_MPA": "PG",
+    "Rating": "8.0 (663K)",
+    "Page_Link": "https://www.imdb.com/title/tt0107048/?ref_=chttp_i_234",
+    "Recommendations": [
+      "Monty Python and the Holy Grail",
+      "Dead Poets Society",
+      "Life of Brian",
+      "The Terminator",
+      "Die Hard",
+      "The Truman Show",
+      "The Big Lebowski",
+      "Jaws",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "The Sixth Sense",
+      "Back to the Future",
+      "Rocky"
+    ],
+    "Genres": [
+      "Comedy",
+      "Drama",
+      "Fantasy",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "235",
+    "Name": "The Battle of Algiers",
+    "Release_Date": "1966",
+    "Duration": "2h 1m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.1 (64K)",
+    "Page_Link": "https://www.imdb.com/title/tt0058946/?ref_=chttp_i_235",
+    "Recommendations": [
+      "To Be or Not to Be",
+      "The Grapes of Wrath",
+      "Pather Panchali",
+      "The Wages of Fear",
+      "The 400 Blows",
+      "The Best Years of Our Lives",
+      "The Passion of Joan of Arc",
+      "Tokyo Story",
+      "It Happened One Night",
+      "Wild Strawberries",
+      "Persona",
+      "Rebecca"
+    ],
+    "Genres": [
+      "Drama",
+      "War"
+    ]
+  },
+  {
+    "ID": "236",
+    "Name": "My Father and My Son",
+    "Release_Date": "2005",
+    "Duration": "1h 52m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.2 (90K)",
+    "Page_Link": "https://www.imdb.com/title/tt0476735/?ref_=chttp_i_236",
+    "Recommendations": [
+      "Like Stars on Earth",
+      "Children of Heaven",
+      "Hachi: A Dog's Tale",
+      "My Grandfather's People",
+      "Süt Kardesler",
+      "Harry Potter and the Deathly Hallows: Part 2",
+      "Finding Nemo",
+      "Up",
+      "Neseli Günler",
+      "The Incredibles",
+      "How to Train Your Dragon",
+      "Toy Story"
+    ],
+    "Genres": [
+      "Drama",
+      "Family"
+    ]
+  },
+  {
+    "ID": "237",
+    "Name": "The Grapes of Wrath",
+    "Release_Date": "1940",
+    "Duration": "2h 9m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.1 (98K)",
+    "Page_Link": "https://www.imdb.com/title/tt0032551/?ref_=chttp_i_237",
+    "Recommendations": [
+      "The Best Years of Our Lives",
+      "Mr. Smith Goes to Washington",
+      "To Be or Not to Be",
+      "It Happened One Night",
+      "Rebecca",
+      "The Battle of Algiers",
+      "The Treasure of the Sierra Madre",
+      "On the Waterfront",
+      "Stagecoach",
+      "Cool Hand Luke",
+      "All About Eve",
+      "Double Indemnity"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "238",
+    "Name": "Amores Perros",
+    "Release_Date": "2000",
+    "Duration": "2h 34m",
+    "Rating_MPA": "R",
+    "Rating": "8.1 (249K)",
+    "Page_Link": "https://www.imdb.com/title/tt0245712/?ref_=chttp_i_238",
+    "Recommendations": [
+      "21 Grams",
+      "Biutiful",
+      "Babel",
+      "Wild Tales",
+      "The Secret in Their Eyes",
+      "And Your Mother Too",
+      "Trainspotting",
+      "In the Name of the Father",
+      "The 400 Blows",
+      "The Battle of Algiers",
+      "Hotel Rwanda",
+      "Amélie"
+    ],
+    "Genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "239",
+    "Name": "Rebecca",
+    "Release_Date": "1940",
+    "Duration": "2h 10m",
+    "Rating_MPA": "Approved",
+    "Rating": "8.1 (143K)",
+    "Page_Link": "https://www.imdb.com/title/tt0032976/?ref_=chttp_i_239",
+    "Recommendations": [
+      "Dial M for Murder",
+      "It Happened One Night",
+      "Notorious",
+      "North by Northwest",
+      "Vertigo",
+      "Spellbound",
+      "All About Eve",
+      "The Grapes of Wrath",
+      "Rear Window",
+      "Rope",
+      "Double Indemnity",
+      "Suspicion"
+    ],
+    "Genres": [
+      "Drama",
+      "Film",
+      "Noir",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "240",
+    "Name": "Cool Hand Luke",
+    "Release_Date": "1967",
+    "Duration": "2h 7m",
+    "Rating_MPA": "GP",
+    "Rating": "8.1 (185K)",
+    "Page_Link": "https://www.imdb.com/title/tt0061512/?ref_=chttp_i_240",
+    "Recommendations": [
+      "The Sting",
+      "Butch Cassidy and the Sundance Kid",
+      "The Hustler",
+      "The Bridge on the River Kwai",
+      "On the Waterfront",
+      "The Grapes of Wrath",
+      "It Happened One Night",
+      "The Great Escape",
+      "Rebecca",
+      "Network",
+      "The Treasure of the Sierra Madre",
+      "The Battle of Algiers"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "241",
+    "Name": "The Sound of Music",
+    "Release_Date": "1965",
+    "Duration": "2h 52m",
+    "Rating_MPA": "G",
+    "Rating": "8.1 (250K)",
+    "Page_Link": "https://www.imdb.com/title/tt0059742/?ref_=chttp_i_241",
+    "Recommendations": [
+      "The Wizard of Oz",
+      "Mary Poppins",
+      "Aladdin",
+      "The Incredibles",
+      "Finding Nemo",
+      "Monsters, Inc.",
+      "Ratatouille",
+      "The Iron Giant",
+      "Up",
+      "How to Train Your Dragon",
+      "Toy Story",
+      "The Lion King"
+    ],
+    "Genres": [
+      "Biography",
+      "Drama",
+      "Family",
+      "Musical",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "242",
+    "Name": "Pather Panchali",
+    "Release_Date": "1955",
+    "Duration": "2h 5m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.2 (36K)",
+    "Page_Link": "https://www.imdb.com/title/tt0048473/?ref_=chttp_i_242",
+    "Recommendations": [
+      "Aparajito",
+      "The World of Apu",
+      "The Battle of Algiers",
+      "Nayak: The Hero",
+      "To Be or Not to Be",
+      "Tokyo Story",
+      "The Passion of Joan of Arc",
+      "The 400 Blows",
+      "Jai Bhim",
+      "The Grapes of Wrath",
+      "The Best Years of Our Lives",
+      "Charulata"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "243",
+    "Name": "It Happened One Night",
+    "Release_Date": "1934",
+    "Duration": "1h 45m",
+    "Rating_MPA": "Passed",
+    "Rating": "8.1 (109K)",
+    "Page_Link": "https://www.imdb.com/title/tt0025316/?ref_=chttp_i_243",
+    "Recommendations": [
+      "Mr. Smith Goes to Washington",
+      "Rebecca",
+      "To Be or Not to Be",
+      "The Grapes of Wrath",
+      "All About Eve",
+      "The Best Years of Our Lives",
+      "Gone with the Wind",
+      "Double Indemnity",
+      "The 400 Blows",
+      "The General",
+      "On the Waterfront",
+      "You Can't Take It with You"
+    ],
+    "Genres": [
+      "Comedy",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "244",
+    "Name": "The Iron Giant",
+    "Release_Date": "1999",
+    "Duration": "1h 26m",
+    "Rating_MPA": "PG",
+    "Rating": "8.1 (216K)",
+    "Page_Link": "https://www.imdb.com/title/tt0129167/?ref_=chttp_i_244",
+    "Recommendations": [
+      "Aladdin",
+      "The Incredibles",
+      "Ratatouille",
+      "Monsters, Inc.",
+      "How to Train Your Dragon",
+      "Klaus",
+      "Finding Nemo",
+      "WALL·E",
+      "Up",
+      "Toy Story 3",
+      "Toy Story",
+      "Inside Out"
+    ],
+    "Genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Sci",
+      "Fi"
+    ]
+  },
+  {
+    "ID": "245",
+    "Name": "The Help",
+    "Release_Date": "2011",
+    "Duration": "2h 26m",
+    "Rating_MPA": "PG-13",
+    "Rating": "8.1 (480K)",
+    "Page_Link": "https://www.imdb.com/title/tt1454029/?ref_=chttp_i_245",
+    "Recommendations": [
+      "Hidden Figures",
+      "Room",
+      "Hidden Figures: It All Adds Up - The Making of Hidden Figures",
+      "12 Years a Slave",
+      "Dead Poets Society",
+      "Hotel Rwanda",
+      "Spotlight",
+      "A Beautiful Mind",
+      "Green Book",
+      "The Help",
+      "Million Dollar Baby",
+      "Groundhog Day"
+    ],
+    "Genres": [
+      "Drama"
+    ]
+  },
+  {
+    "ID": "246",
+    "Name": "The 400 Blows",
+    "Release_Date": "1959",
+    "Duration": "1h 39m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.1 (124K)",
+    "Page_Link": "https://www.imdb.com/title/tt0053198/?ref_=chttp_i_246",
+    "Recommendations": [
+      "Persona",
+      "Wild Strawberries",
+      "Bicycle Thieves",
+      "The Seventh Seal",
+      "Tokyo Story",
+      "It Happened One Night",
+      "The Battle of Algiers",
+      "Breathless",
+      "Rashomon",
+      "Antoine and Colette",
+      "Juliet of the Spirits",
+      "Day for Night"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "ID": "247",
+    "Name": "Persona",
+    "Release_Date": "1966",
+    "Duration": "1h 23m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.1 (127K)",
+    "Page_Link": "https://www.imdb.com/title/tt0060827/?ref_=chttp_i_247",
+    "Recommendations": [
+      "Wild Strawberries",
+      "The Seventh Seal",
+      "The 400 Blows",
+      "Cries & Whispers",
+      "Autumn Sonata",
+      "Fanny and Alexander",
+      "Persona",
+      "La haine",
+      "The Virgin Spring",
+      "Mirror",
+      "Persona",
+      "The Passion of Joan of Arc"
+    ],
+    "Genres": [
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "ID": "248",
+    "Name": "Life of Brian",
+    "Release_Date": "1979",
+    "Duration": "1h 34m",
+    "Rating_MPA": "R",
+    "Rating": "8.0 (415K)",
+    "Page_Link": "https://www.imdb.com/title/tt0079470/?ref_=chttp_i_248",
+    "Recommendations": [
+      "Monty Python and the Holy Grail",
+      "The Meaning of Life",
+      "Groundhog Day",
+      "Monty Python's Flying Circus",
+      "Monty Python Live at the Hollywood Bowl",
+      "Monty Python's Fliegender Zirkus",
+      "And Now for Something Completely Different",
+      "The Secret Life of Brian",
+      "Pirates of the Caribbean: The Curse of the Black Pearl",
+      "The Big Lebowski",
+      "Jaws",
+      "The Terminator"
+    ],
+    "Genres": [
+      "Comedy"
+    ]
+  },
+  {
+    "ID": "249",
+    "Name": "Aladdin",
+    "Release_Date": "1992",
+    "Duration": "1h 30m",
+    "Rating_MPA": "G",
+    "Rating": "8.0 (449K)",
+    "Page_Link": "https://www.imdb.com/title/tt0103639/?ref_=chttp_i_249",
+    "Recommendations": [
+      "The Incredibles",
+      "Beauty and the Beast",
+      "Monsters, Inc.",
+      "Finding Nemo",
+      "The Lion King",
+      "Ratatouille",
+      "Toy Story",
+      "Toy Story 3",
+      "Up",
+      "How to Train Your Dragon",
+      "Mulan",
+      "Inside Out"
+    ],
+    "Genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Musical",
+      "Romance"
+    ]
+  },
+  {
+    "ID": "250",
+    "Name": "Drishyam",
+    "Release_Date": "2015",
+    "Duration": "2h 43m",
+    "Rating_MPA": "Not Rated",
+    "Rating": "8.2 (91K)",
+    "Page_Link": "https://www.imdb.com/title/tt4430212/?ref_=chttp_i_250",
+    "Recommendations": [
+      "Drishyam 2",
+      "Andhadhun",
+      "Dangal",
+      "Munna Bhai M.B.B.S.",
+      "Hera Pheri",
+      "Chhichhore",
+      "Gangs of Wasseypur",
+      "PK",
+      "Lagaan: Once Upon a Time in India",
+      "Bhaag Milkha Bhaag",
+      "Bajrangi Bhaijaan",
+      "Drishyam"
+    ],
+    "Genres": [
+      "Crime",
+      "Drama",
+      "Mystery",
+      "Thriller"
+    ]
+  }
+]
