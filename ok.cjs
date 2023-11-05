@@ -1,4 +1,3 @@
-require('dotenv').config();
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
@@ -83,8 +82,6 @@ const fs = require('fs');
   }
 
   await browser.close();
-
-  console.log(movies[5]);
 
   fs.writeFile('date.json', JSON.stringify(movies, null, 2), 'utf-8', () => {
     console.log("Done.");
